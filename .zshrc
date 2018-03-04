@@ -1,4 +1,4 @@
-echo omar
+echo omarr
 source ~/.zsh-powerline.sh
 #Omar declared options
 #Small method to view markdown (.md) in the treminal
