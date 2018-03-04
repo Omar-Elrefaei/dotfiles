@@ -1,3 +1,4 @@
+echo omar
 source ~/.zsh-powerline.sh
 #Omar declared options
 #Small method to view markdown (.md) in the treminal
@@ -84,12 +85,12 @@ alias ffn='firefox-nightly'
 
 export CORRECT_IGNORE_FILE=.*
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
-export GOPATH=/home/omar/go/GOPATH
+export GOPATH=~/go/GOPATH
 export HOWDOI_URL='askubuntu.com'
 export HOWDOI_COLORIZE=True
 export VHS="/media/omar/MY DATA/OneDrive/Virtual-High-School"
 export PATH=$PATH:$HOME/.cargo/bin
-export PATH=/home/omar/scripts-bin/working/bin:$PATH
+export PATH=~/scripts-bin/working/bin:$PATH
 export ANDROID_HOME=~/Android/Sdk
 export PATH=$PATH:$GOPATH/bin
 
@@ -112,7 +113,7 @@ export PATH=$PATH:$GOPATH/bin
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-  export ZSH=/home/omar/.oh-my-zsh
+  export ZSH=~/.oh-my-zsh
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
