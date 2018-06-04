@@ -1,2 +1,5 @@
 set tabsize 4
 set linenumbers
+set smooth
+set tabstospaces
+
