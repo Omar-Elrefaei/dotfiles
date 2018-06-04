@@ -185,3 +185,7 @@ fi
 
 if [ $TILIX_ID ] || [ $VTE_VERSION ] ; then source /etc/profile.d/vte.sh; fi # Ubuntu Budgie END
 
+
+# added by travis gem
+[ -f /home/omar/.travis/travis.sh ] && source /home/omar/.travis/travis.sh
+PATH=/usr/bin:/home/linuxbrew/.linuxbrew/bin:/home/omar/scripts-bin/working/bin:/home/linuxbrew/.linuxbrew/bin:/home/omar/scripts-bin/working/bin:/home/linuxbrew/.linuxbrew/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/bin:/bin:/home/omar/.cargo/bin:/home/omar/go/GOPATH/bin:/bin:/home/omar/go/GOPATH/bin:/home/omar/.cargo/bin:/home/omar/go/GOPATH/bin:/home/omar/random-repo/art

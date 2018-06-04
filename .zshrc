@@ -1,9 +1,46 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 echo omarr
+=======
+=======
+>>>>>>> Stashed changes
+zstyle ":completion:*:descriptions" format "%B%d%b"
+
+compdef _gnu_generic howdoi
+
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 source ~/.zsh-powerline.sh
+
+source ~/servers
+
 #Omar declared options
 #Small method to view markdown (.md) in the treminal
 
+#Omar
+time="%F{cyan}%D{%H:%M:%S}%f"
+#RPROMPT="$time"
 
+alias kred='killall -9 game.exe'
+
+# Compile and Run any simple C/C++ program
+brc (){
+gcc -o "${1%.*}" "$1"     
+./"${1%.*}"
+}
+
+# A simple unix calculator
+calc (){
+echo "$@" | bc
+}
+
+# make a directory and cd to it
+mcd()
+{
+    test -d "$1" || mkdir "$1" && cd "$1"
+}
 _zxc () {
 	#ls -1
 	echo omar hatem
@@ -17,12 +54,16 @@ compdef _zxc zxc
 
 
 sing () {
-	repeat 5 do mplayer ~/Music/you-dont-know-me.opus 
+	song=/home/omar/Music/you-dont-know-me.opus
+	song=${1:-$song}
+	repeat 20 do mplayer "$song" || break
 	done
+
 }
 
-md () {
-    pandoc $1 | lynx -stdin
+# View markdown
+mrd () {
+   pandoc $1 | lynx -stdin
 }
 
 temp () {
@@ -46,21 +87,27 @@ bri () {
 	fi
 }
 
-function apt() {
-  case $* in
-    install* ) shift 1; command sudo apt install "$@" | more ;;
-    * ) command apt "$@" ;;
-  esac
-}
+#function apt() {
+#  case $* in
+#    install* ) shift 1; command sudo apt install "$@" | more ;;
+#    * ) command apt "$@" ;;
+#    esac
+#    rehash
+#}
 
 #top -b -n 1 | fzf
 alias cd..='cd ..'
 alias cd,,='cd ..'
 alias cd...='cd ..; cd ..'
 
+alias red-alert="wine /home/omar/.wine/dosdevices/c:/Program\ Files\ \(x86\)/Red\ Alert\ 2\ Yuri\'s\ Revenge/Ra2.exe"
+
+alias pray='ipraytime --latitude 51.1801 --longitude 71.44598 -u +6 -a 3'
 
 alias config='/usr/bin/git --git-dir=$HOME/.myconf/ --work-tree=$HOME'
 
+#alias kak='kak -c omar'
+alias tlp-mod='sudo tlp-stat -b -s | grep "Mode"'
 alias ram='free -m'
 alias open='xdg-open'
 alias python='/usr/bin/python3'
@@ -70,16 +117,27 @@ alias gtodoist='google-chrome --profile-directory=Profile\ 4 --app="https://todo
 alias chrome='google-chrome --profile-directory=Default'
 alias herokup='git add . && git commit -am "Demo" && git push heroku master'
 alias hg='cat ~/.zsh_history | grep'
-alias pg='ps ax | grep'
-alias pgf='ps ax | fzf'
 alias ebash='nano ~/.bashrc; source /home/omar/.bashrc'
-alias ezsh='nano ~/.zshrc; source /home/omar/.zshrc'
+
+## aliases which developed into functions
+function ezsh() {
+nano ~/.zshrc
+#rehash
+. ~/.zshrc
+}
+
+# To execlude the 'grep' result while retaining colors
+#alias pg='ps ax | grep --invert-match grep | grep'
+function pg() {
+ps ax | grep --invert-match grep | grep $1
+}
+
 alias embash-snppits='nano ~/bash-snippets/all.txt'
 alias howdoi='howdoi -a -c'
 alias how='HOWDOI_URL="askubuntu.com site:unix.stackexchange.com" ; howdoi -a -c'
 alias s-how='HOWDOI_URL="stackoverflow.com" ; howdoi -a -c'
 alias hero='heroku'
-alias bat='upower -i $(upower -e | grep 'BAT') | grep -E "state|to\ full|percentage"'
+alias bat='one=$(upower -i $(upower -e | grep 'BAT') | grep -E "state|to\ full|percentage");two=$(printf "\n    Remaining:           "; battery_time_remaining| awk -F " " "{print \$1 }" ); echo $one $two | grep -E "state:|to\ full|percentage:|Remaining:"'
 alias firefox-nightly='~/Downloads/firefox/./firefox'
 alias ffn='firefox-nightly'
 
@@ -113,7 +171,15 @@ export PATH=$PATH:$GOPATH/bin
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
   export ZSH=~/.oh-my-zsh
+=======
+export ZSH=/home/omar/.oh-my-zsh
+>>>>>>> Stashed changes
+=======
+export ZSH=/home/omar/.oh-my-zsh
+>>>>>>> Stashed changes
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
@@ -196,10 +262,20 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 
-autoload -Uz bracketed-paste-magic
-zle -N bracketed-paste bracketed-paste-magic
+##autoload -Uz bracketed-paste-magic
+##zle -N bracketed-paste bracketed-paste-magic
 #source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
-zstyle ':bracketed-paste-magic' active-widgets '.self-*'
-export PATH="/home/linuxbrew/.linuxbrew/bin:$PATH"
+#zstyle ':bracketed-paste-magic' active-widgets '.self-*'
 export MANPATH="/home/linuxbrew/.linuxbrew/share/man:$MANPATH"
 export INFOPATH="/home/linuxbrew/.linuxbrew/share/info:$INFOPATH"
+
+# added by travis gem
+[ -f /home/omar/.travis/travis.sh ] && source /home/omar/.travis/travis.sh
+PATH=/usr/bin:/usr/sbin:/home/linuxbrew/.linuxbrew/bin:/home/omar/scripts-bin/working/bin:/home/omar/scripts-bin/working/bin:/home/linuxbrew/.linuxbrew/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/bin:/bin:/home/omar/.cargo/bin:/home/omar/go/GOPATH/bin:/bin:/home/omar/go/GOPATH/bin:/home/omar/.cargo/bin:/home/omar/go/GOPATH/bin:/home/omar/random-repo/art
+export PATH="$HOME/bin:$HOME/.local/bin:$PATH"
+
+
+function mls() {}
+
+#compdef _alternative "pids:Process:($(ps xo cmd | awk '{print $1}' | awk -F "/" '{print $NF}'))" pg
+#compdef _alternative
