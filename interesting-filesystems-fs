@@ -1,0 +1,12 @@
+EXT4		(Good old stable - reliable. Thats what you want in an FS)
+ZFS			(Not-Linux Native) (Exellent on BSD) (The most modern+reliable)
+Btrfs		(Native Linux) (Still buggy/SUSE default) (eats data)
+
+reiser4
+
+XFS			(Not that feature FULL) (EXT4 is stable enough)
+
+
+#EXT4 is good enough as long as you don't need some sexy features from ZFS/BTRFS like
+	Instant coping of, while just keeping the diff
+	Clones / snapshotes

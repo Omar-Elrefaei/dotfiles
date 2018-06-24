@@ -1,0 +1,26 @@
+# Upgrade to 17.10 (do it manually one time)
+#-----------------------------------------------------------------
+sudo nano /etc/update-manager/release-upgrades (change it to normal)
+sudo apt update && sudo apt dist-upgrade
+sudo do-release-upgrade
+#---------------------------------------------------------------------
+
+
+git clone "https://github.com/robbyrussell/oh-my-zsh"
+
+# The 2 symbol punch line
+curl https://raw.githubusercontent.com/riobard/zsh-powerline/master/zsh-powerline.sh > ~/.zsh-powerline.sh
+
+
+# Compile XMR-Stak
+apt-get -y install inxi htop zsh libmicrohttpd-dev libssl-dev cmake build-essential libhwloc-dev
+git clone https://github.com/fireice-uk/xmr-stak.git && mkdir xmr-stak/build && cd xmr-stak/build
+cmake .. -DOpenCL_ENABLE=OFF -DCUDA_ENABLE=OFF -DCMAKE_LINK_STATIC=ON/OFF
+
+# Copy Public key passwordless
+sshpass -f passfile ssh-copy-id paperspace@[IP]
+
+
+
+# With sudo
+nano 	

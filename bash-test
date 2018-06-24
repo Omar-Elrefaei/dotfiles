@@ -1,0 +1,3 @@
+echo $1
+
+sed -ri "s/(.*)1-cpu(.*)/\1$1\2/g" ~/sed-test

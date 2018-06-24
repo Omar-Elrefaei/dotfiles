@@ -1,0 +1,8 @@
+bz2 > gz
+
+compare
+lzma/lzma2
+	7z
+bz2
+gz (Gzip)
+zip

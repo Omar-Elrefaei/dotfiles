@@ -1,0 +1,18 @@
+RB="\033[1;31m"
+
+if [ -z "$1" ]; 
+	then
+	echo "${RB} ERROR: Missing IP address"
+	exit
+fi
+
+ip="$1"
+
+# Read password from clipboard
+pass=$(xclip -selection c -o)
+
+sshpass -p "$pass" ssh-copy-id paperspace@"$ip"
+
+scp ~/paperspace-script-config paperspace@"$ip":script-xmr
+
+ssh paperspace@"$ip"

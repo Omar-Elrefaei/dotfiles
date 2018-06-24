@@ -1,0 +1,19 @@
+: 1528552688:0;sudo apt install caja
+: 1528581677:0;sudo apt install mopidy
+: 1528582495:0;sudo apt install draai
+: 1528583066:0;sudo apt install qmpdclient
+: 1528583534:0;sudo apt install mopidy-soundcloud
+: 1528583679:0;sudo apt install mopidy-youtube
+: 1528587169:0;sudo apt install cantata
+: 1528588996:0;sudo apt install elinks
+: 1528596027:0;sudo apt install tint2
+caja
+mopidy
+draai
+qmpdclient
+mopidy-soundcloud
+mopidy-youtube
+cantata
+elinks
+tint2
+easygit

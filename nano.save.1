@@ -1,0 +1,14 @@
+
+import os
+import requests
+from bs4 import Beautifu')
+
+#write the html in a testing file for debuging
+#f = open('phtest', 'w')
+#f.write(r.text)
+
+#parse and extract the first view key
+ph_html = BeautifulSoup(ph.text, 'html.parser')
+lidev = ph_html.find("li","videoblock videoBox")
+vkey = lidev.get('_vkey')
+

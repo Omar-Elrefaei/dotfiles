@@ -1,0 +1,4 @@
+With no prior knowledg with python, just expermention without internet + my programmer sense
+	changing 'b = (list(line[25:lim]))' > his.py
+	into 'b = (list([line[25:lim]]))' 
+	changes bef.png to after.png

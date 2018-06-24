@@ -1,0 +1,6 @@
+Column types = {str, str}
+Column names = {a, b}
+
+a1|a1|
+2 |2 |
+3 |33|

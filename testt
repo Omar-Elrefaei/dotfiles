@@ -1,0 +1,2 @@
+#! /bin/bash
+/usr/bin/notify-send -t 1000 -i face-wink "Go get a Sec of break"

@@ -1,0 +1,21 @@
+
+# Simple, Piramitive File system write speed benchmark
+# Each one was ran multiple times
+
+FS      sec     note
+btrfs   8 
+EXT4    4       but 'sync' took longer
+XFS     3
+FAT     18      NO benifet from cleaning cache. ie. stuped FS
+NTFS    8
+EXT2    5>10    
+EXT3    7
+MINIX   
+Reiser  4,14,13,90,5,5
+
+# Commands
+FS=EXT3
+SECONDS=0 && rm -fr $FS/extras && cp -r $FILE $FS/extras && echo $SECONDS
+sync&& echo 3 > /proc/sys/vm/drop_caches && echo free-d
+
+

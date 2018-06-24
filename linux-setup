@@ -1,0 +1,6 @@
+setup $PATH correctly nicelly WITH linuxbrew at the end, for bash/zsh login/non-login interactive/non-interactive shells
+
+# WHAT TO BACKUP
+~/.config
+#ei. tlp setup, keyboard config
+/etc/*

@@ -1,0 +1,19 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+source.unsplash.com	0	0	1521399392	31536000
+www.dropbox.com	0	1	1494924182	15552000
+stallman.org	0	0	1514114920	31536000
+bitbucket.org	0	1	1494947481	31536000
+raw.githubusercontent.com	0	0	1508259962	31536000
+codeload.github.com	0	0	1501520672	31536000
+launchpad.net	0	0	1528587252	15552000
+files.kde.org	0	0	1527578138	15768000
+www.destroyallsoftware.com	0	0	1523320543	31536000
+dl.dropboxusercontent.com	0	1	1520371195	15552000
+cdn.thinglink.me	0	0	1511966416	15552000
+dropbox.com	0	1	1520371190	15552000
+notepad-plus-plus.org	0	0	1496744615	15768000
+accounts.google.com	0	1	1511867839	31536000
+github.com	0	1	1501520671	31536000
+gist.githubusercontent.com	0	0	1512325838	31536000

@@ -1,0 +1,45 @@
+Set terminal/tab title from command line
+
+# Learn and experamint with all parttions stuff, move bootable, small reserved, filesystems, encrypted partitions, GPT/MBR
+
+#TO LEARN
+temux
+nvim/emacs/kak
+readline shortcuts
+ncruses (lib)
+
+
+# FANCY 'Rice'
+Unixorn
+	The most fancy productivity setup compiz
+		'This is Not why I ditchid windows, but this is why I can NOT turn back'
+ZSH
+
+
+
+My Ultimate fancy linux
+	Settle on a lightwhite custimizable DE (Tick) [Mate/KDE]
+	
+	Boost startup (I wont stop until it is faster than windows)
+
+	ZSH/FISH
+
+	Tmux
+
+	Splash screen
+
+	GRUB screen
+
+	GTK theme
+
+	Icon theme
+
+	Terminal
+		App
+		Font
+		Color palete
+
+
+And it will be awsome to reproduce that in arch (Of course with a script) 
+>(Mate will be fine to create a fool proof backup) (And don't forget your dotfiles(some are not in ~))
+	search 'fast/pre-configured arch installation'

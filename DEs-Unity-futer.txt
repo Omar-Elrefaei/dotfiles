@@ -1,0 +1,5 @@
+But without Unity's function (including HUD, panel integration, global menus, and my personal favorite, LIM), I see no point in trying to imitate Unity's form in GNOME. To do so is like putting lipstick on a pig. (No offense to pigs intended.)
+
+For now, I'll continue circling in a holding pattern with Unity (which still works fine for me on Ubuntu 17.10) until I figure out where to land.
+
+KDE Plasma, Budgie and MATE all look promising, but somehow don't (yet) feel like home to me. But of them, I’m currently leaning toward KDE Plasma because it: (1) is nearing stable Wayland support; and (2) is considering adding LIM functionality, which, combined with the Active Window Control plasmoid would ease my transition from Unity.

@@ -1,0 +1,2 @@
+# Compositiong for 3D effects like plank dock icon zoom
+compton -cCf --inactive-dim 0.2 --vsync drm

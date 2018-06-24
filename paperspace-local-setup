@@ -1,0 +1,9 @@
+ip="$1"
+pass="$2"
+id="$3"
+
+ssh-keyscan -H $ip >> ~/.ssh/known_hosts
+sshpass -p "$pass" ssh-copy-id paperspace@$ip
+scp ~/paperspace-script-config paperspace@$ip:script-xmr
+ssh "paperspace@$ip" 'chmod +x script-xmr'
+ssh -t "paperspace@$ip" "bash -c echo "$pass" | sudo -S ./script-xmr "$id" "

@@ -1,0 +1,13 @@
+[0;1;31m●[0m networking.service - Raise network interfaces
+   Loaded: loaded (/lib/systemd/system/networking.service; enabled; vendor preset: enabled)
+   Active: [0;1;31mfailed[0m (Result: exit-code) since Sun 2017-06-18 15:46:07 +06; 28min ago
+     Docs: man:interfaces(5)
+ Main PID: 1232 (code=exited, status=1/FAILURE)
+
+Jun 18 15:46:03 Secret-Code systemd[1]: Starting Raise network interfaces...
+Jun 18 15:46:07 Secret-Code ifup[1232]: Cannot find device "enp4s0"
+Jun 18 15:46:07 Secret-Code ifup[1232]: Failed to bring up enp4s0.
+Jun 18 15:46:07 Secret-Code systemd[1]: [0;1;39mnetworking.service: Main process exited, code=exited, status=1/FAILURE[0m
+Jun 18 15:46:07 Secret-Code systemd[1]: [0;1;31mFailed to start Raise network interfaces.[0m
+Jun 18 15:46:07 Secret-Code systemd[1]: [0;1;39mnetworking.service: Unit entered failed state.[0m
+Jun 18 15:46:07 Secret-Code systemd[1]: [0;1;39mnetworking.service: Failed with result 'exit-code'.[0m

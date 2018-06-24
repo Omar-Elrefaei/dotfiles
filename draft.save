@@ -1,0 +1,12 @@
+First: you can only resize to a neighboring partition, so you just have one eligible
+unallocated partition
+Second: Moving the starting point of a bootable partition is dangerous and can leave the OS unbootable.
+
+
+
+First: you can only resize to a neighboring partition, so you just have one eligible
+unallocated partition
+Second: Moving the starting point of a bootable partition is dangerous and can leave the OS unbootable.
+The program is preventing you from resizing, because if you expanded to the partition before it, you are moving all data in "/" root directory (all OS, programs, and user data) to fill the new empty space in the beginning in the 'new' partition. That means that you are moving the OS you are currently booted in. (You can expand at the end safely)
+
+You can t

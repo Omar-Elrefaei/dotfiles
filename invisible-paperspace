@@ -1,0 +1,4 @@
+wget {config}
+edit the config with $1
+run ./xmr-stak in a named tmux
+rm .bash_history

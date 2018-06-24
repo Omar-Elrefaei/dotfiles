@@ -1,0 +1,4 @@
+zsh -e \
+repeat 5 do mplayer you-dont-know-me.opus \
+done
+#zsh -c ls

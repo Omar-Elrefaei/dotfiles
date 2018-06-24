@@ -1,0 +1,16 @@
+man i3bar
+man i3status
+
+cat .xinit
+hg xinit starx (bash+zsh)
+
+
+#Auto start in .x... file
+syndeamon -t -K -R -i 0.6
+
+# Compiz
+backend: Flat file vs gsetting/dconf
+3 Profiles:
+	Prodictive
+	Fancy rice/showcase + documentation
+	lowgfx (or just use onother wm)

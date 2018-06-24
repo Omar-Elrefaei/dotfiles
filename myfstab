@@ -1,0 +1,14 @@
+#<file system>	<mount point>	<type>			<options>			<dump>			<pass>
+
+LABEL=Windows	/media/omar/Windows			ntfs		defaults      0			2
+UUID=1C11-C180   /home/omar/d-drive         vfat        defaults      0         2
+LABEL=HELLO		/media/omar/HELLO			vfat		defaults		0			2
+
+
+# testing speed of mounting with  the -F option
+
+## RESULT: Failed to recognize any speed diffrence
+
+# SECONDS=0; mount --fstab=myfstab -a; echo $SECONDS
+# SECONDS=0; mount --fstab=myfstab -a -F; echo $SECONDS
+# umount /dev/sda4 /dev/sda5 /dev/sdb1

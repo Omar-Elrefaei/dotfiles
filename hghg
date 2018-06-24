@@ -1,0 +1,2 @@
+function duh() {\n  (( $# == 0 )) && set -- *\n  if [[ "$OSTYPE" == linux* ]]; then\n    du -khsc "$@" | sort -h -r\n  else\n    du -kcs "$@" | awk '{ printf "%9.1fM    %s\n", $1 / 1024, $2 } ' | sort -n -r\n  fi\n}
+

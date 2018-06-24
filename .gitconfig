@@ -1,0 +1,7 @@
+[user]
+	email = elrefaei.omar@gmail.com
+	name = omar
+[core]
+	autocrlf = input
+[credential]
+	helper = store

@@ -1,0 +1,19 @@
+# All that while chrome is open & just leaving 150M of RAM
+# 8 January 2017
+
+99% 21:38:16 up 2 days, 7:00, 2 users, load average: 0.23, 0.48, 0.58
+
+# Gifs + CLI + & Music
+33%	66% 22:13:34 up 2 days, 7:35, 2 users, load average: 1.18, 0.84, 0.51
+
+# Music + tried to disable everything
+14%	52% 22:40:40 up 2 days, 8:00, 2 users, load average: 0.54, 0.32, 0.37
+
+# Stopped music + Dark screen
+12% 40% 23:09:03 up 2 days, 8:30, 2 users, load average: 0.03, 0.16, 0.24
+
+# Closed chrome
+10% 30% 23:39:26 up 2 days, 9:00, 2 users, load average: 0.00, 0.04, 0.11
+
+# Sleep
+4% 26% 00:15:03 up 2 days, 9:35, 2 users, load average: 1.26, 0.40, 0.22

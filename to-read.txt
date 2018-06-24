@@ -1,0 +1,3 @@
+Every team in Microsoft runs differently, that what makes it great, we are a bunch of companies in a big one.
+
+I haven’t worked on Legacy stuff for over 6 years. We are using Git, Gulp, TypeScript, Node, Dotnetcore, Swift, online code review and tracking VSTS, automated builds and continuous integration on VSTS.

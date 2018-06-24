@@ -1,0 +1,6 @@
+unebootin	>	program to burn iso files to usb drives, 
+			so that you can later install that OS
+			into your internal drive
+virtualbox	>	program that allow the host OS to 
+			emulate a hardware enrioment for the
+			guest operating system to run

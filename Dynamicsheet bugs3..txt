@@ -1,0 +1,3 @@
+sort >> (|| columnNo < 0)
+
+do not swap if (i == flag)

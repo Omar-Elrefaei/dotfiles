@@ -1,0 +1,30 @@
+zeal
+pandoc
+rlwrap
+peek (gif recorder)
+
+
+slrn (cli news) (not what you think)
+
+Writefull (Writing)
+
+# Editors
+Spacemacs (Emacs)
+vis
+neovim
+joe
+
+
+xpra (Important) (run GUI apps over ssh, and continue after discontection)
+
+cellwriter
+
+wordgrinder (document editor ncruses/x11)
+
+# hotkey, keyboard, input device daemon to luanch commands
+triggerhappy
+# swipping
+easystroke
+
+apt show xfce4-goodies
+

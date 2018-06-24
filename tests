@@ -1,0 +1,7 @@
+Column types = {str, str, str}
+Column names = {Test, Date, Place}
+
+AP Physics         |May 24  |QSI Astana|
+AP Computer Science|May 11  |QSI Astana|
+SAT with Essay     |March 10|NU        |
+SAT with Essay     |May 5   |QSI Astana|

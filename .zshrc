@@ -1,17 +1,34 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-echo omarr
-=======
-=======
->>>>>>> Stashed changes
-zstyle ":completion:*:descriptions" format "%B%d%b"
+#cat ~/.themes/wal-nebula
+cat /home/omar/.cache/wal/sequences
+# control wifi
+
+ alias wifi-off='nmcli radio wifi off' 
+ alias wifi-on='nmcli radio wifi on' 
+
+
+
+# SHOULD be a bit insecure. But this is the only workaround to an OMZ bug when luanching zsh as root
+export ZSH_DISABLE_COMPFIX=true
+
+
+# Set kakoune to luanch a da if no one is running
+alias kak="kako"
+kako () {
+        kak_bin=$(which -a kak | sed -n "2 p")
+        kak_sessions=$("$kak_bin" -l)
+        if [ -z "$kak_sessions" ]
+        then
+                "$kak_bin" -d -s omar
+                "$kak_bin" -c omar "$@"
+        else
+                "$kak_bin" -c omar "$@"
+        fi
+}
+
+#zstyle ":completion:*:descriptions" format "%B%d%b"
 
 compdef _gnu_generic howdoi
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 source ~/.zsh-powerline.sh
 
 source ~/servers
@@ -24,6 +41,7 @@ time="%F{cyan}%D{%H:%M:%S}%f"
 #RPROMPT="$time"
 
 alias kred='killall -9 game.exe'
+alias red-alert="wine /home/omar/.wine/dosdevices/c:/Program\ Files\ \(x86\)/Red\ Alert\ 2\ Yuri\'s\ Revenge/Ra2.exe"
 
 # Compile and Run any simple C/C++ program
 brc (){
@@ -79,11 +97,11 @@ ecom () {
 }
 bri () {
 	if [ -z $1 ]; then
-		cat /sys/class/backlight/radeon_bl0/brightness
+		sudo cat /sys/class/backlight/radeon_bl0/brightness
 	elif [ $1 = "full" ]; then
-		echo 255 > /sys/class/backlight/radeon_bl0/brightness
+		echo 255 | sudo tee /sys/class/backlight/radeon_bl0/brightness
 	else
-		echo $1 > /sys/class/backlight/radeon_bl0/brightness
+		echo $1 | sudo tee /sys/class/backlight/radeon_bl0/brightness
 	fi
 }
 
@@ -100,10 +118,9 @@ alias cd..='cd ..'
 alias cd,,='cd ..'
 alias cd...='cd ..; cd ..'
 
-alias red-alert="wine /home/omar/.wine/dosdevices/c:/Program\ Files\ \(x86\)/Red\ Alert\ 2\ Yuri\'s\ Revenge/Ra2.exe"
+
 
 alias pray='ipraytime --latitude 51.1801 --longitude 71.44598 -u +6 -a 3'
-
 alias config='/usr/bin/git --git-dir=$HOME/.myconf/ --work-tree=$HOME'
 
 #alias kak='kak -c omar'
@@ -111,6 +128,9 @@ alias tlp-mod='sudo tlp-stat -b -s | grep "Mode"'
 alias ram='free -m'
 alias open='xdg-open'
 alias python='/usr/bin/python3'
+alias szsh='sudo zsh'
+alias panel-on='gsettings set org.mate.panel.toplevel:/org/mate/panel/toplevels/top/ auto-hide false'
+alias panel-off='gsettings set org.mate.panel.toplevel:/org/mate/panel/toplevels/top/ auto-hide true'
 
 alias s='cd ..'
 alias gtodoist='google-chrome --profile-directory=Profile\ 4 --app="https://todoist.com"'
@@ -171,15 +191,9 @@ export PATH=$PATH:$GOPATH/bin
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   export ZSH=~/.oh-my-zsh
-=======
 export ZSH=/home/omar/.oh-my-zsh
->>>>>>> Stashed changes
-=======
 export ZSH=/home/omar/.oh-my-zsh
->>>>>>> Stashed changes
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
@@ -228,7 +242,7 @@ ZSH_THEME="agnoster"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git battery)
+plugins=(snappy chucknorris git battery)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -271,7 +285,7 @@ export INFOPATH="/home/linuxbrew/.linuxbrew/share/info:$INFOPATH"
 
 # added by travis gem
 [ -f /home/omar/.travis/travis.sh ] && source /home/omar/.travis/travis.sh
-PATH=/usr/bin:/usr/sbin:/home/linuxbrew/.linuxbrew/bin:/home/omar/scripts-bin/working/bin:/home/omar/scripts-bin/working/bin:/home/linuxbrew/.linuxbrew/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/bin:/bin:/home/omar/.cargo/bin:/home/omar/go/GOPATH/bin:/bin:/home/omar/go/GOPATH/bin:/home/omar/.cargo/bin:/home/omar/go/GOPATH/bin:/home/omar/random-repo/art
+PATH=/home/omar/scripts-bin/working/bin:/home/omar/scripts-bin/working/bin:/home/linuxbrew/.linuxbrew/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/bin:/bin:/home/omar/.cargo/bin:/home/omar/go/GOPATH/bin:/bin:/home/omar/go/GOPATH/bin:/home/omar/.cargo/bin:/home/omar/go/GOPATH/bin:/home/omar/random-repo/art
 export PATH="$HOME/bin:$HOME/.local/bin:$PATH"
 
 

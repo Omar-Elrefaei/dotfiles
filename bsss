@@ -1,0 +1,5 @@
+noof=4
+
+for ((c=0; c<=noof; c++ )); do 
+	echo "$c"
+done

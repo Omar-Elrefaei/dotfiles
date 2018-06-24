@@ -1,0 +1,29 @@
+C1	20h-80/s	1-cpu	0.5G	$6
+C2	125h/s		1-cpu	1G		$9			low-power-mod=5
+C3	175-250h/s	2-cpu	2G		$14			low-power-mod=4
+C4   sometimes ~higher	4G		$25
+
+
+C7 (12PM 3/9) ~20h/s per core (RAM used 490M ~0.1% per thread*11) 5x low power setting 
+
+# DEFUNCT: The C3 hashrate on average is slightly highter than the C2
+#	But with that difftence in price, the C2 is the thing to do
+## The C3 reaches >250 after 2/3 days
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Joke
+I paid for windows pro 25Hours for $0.32/h + $5 to get > 190 hash/s ($13)
+I paid $13 dollars for 1 day for what I could get for $9 in a month (The windows
+machine had a GPU, but I couldnt mine with it)

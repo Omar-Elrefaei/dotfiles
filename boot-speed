@@ -1,0 +1,15 @@
+Startup finished in 17.802s (firmware) + 8.151s (loader) + 8.794s (kernel) + 2min 16.581s (userspace) = 2min 51.329s
+systemd services: 117 enabled, 56 disabled
+# I dont think i did any thing
+Startup finished in 4.828s (firmware) + 5.169s (loader) + 9.738s (kernel) + 1min 26.555s (userspace) = 1min 46.291s
+
+sudo systemctl disable vboxdrv.service php7.0-fpm.service phpsessionclean.timer postgresql.service teamviewerd.service
+Startup finished in 4.862s (firmware) + 5.189s (loader) + 9.671s (kernel) + 1min 1.087s (userspace) = 1min 20.812s
+
+sudo systemctl disable vboxautostart-service.service vboxweb-service.service vboxballoonctrl-service.service snapd.service accounts-daemon.service
+Startup finished in 4.865s (firmware) + 4.879s (loader) + 9.716s (kernel) + 56.854s (userspace) = 1min 16.316s
+
+# samba services
+sudo systemctl disable smbd.service winbind.service nmbd.service
+
+Startup finished in 4.872s (firmware) + 6.110s (loader) + 9.752s (kernel) + 46.109s (userspace) = 1min 6.844s

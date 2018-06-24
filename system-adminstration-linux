@@ -1,0 +1,11 @@
+LVM ??? (NOT shrinkable???)
+
+Put /home /var /temp in other partitions (what else) 
+
+(Now you can backup, and experamint with filesystems in /home) (rieser / ZFS / BTRFS)
+
+# If some program/dwonload filled your / you may be prevented from logging in
+
+Ask people what does they do in a new system
+
+Old system reprodusability ??????

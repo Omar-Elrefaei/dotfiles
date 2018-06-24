@@ -1,0 +1,3 @@
+get read & write permission for '/sys/class/backlight/radeon_bl0/brightness'
+	for your 'bri'(.zshrc) function to work. 
+	(reserve the main ownership for root) [check the perm. GUI menu from caja {other part}]
