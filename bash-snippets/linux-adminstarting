@@ -1,0 +1,8 @@
+### Make & Enable swap partition
+# 1) Make a partition formated as swap
+# 2) Edit fstab
+UUID=$(UUID)    none    swap    sw  0   0
+# 3) Enable
+sudo swapon --all --verbose
+# 4) Verify
+cat /proc/swaps

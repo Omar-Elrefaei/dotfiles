@@ -1,0 +1,70 @@
+# Controle Volume
+amixer -D pulse sset Master 5%-
+amixer -D pulse sset Master 5%+
+amixer -D pulse sset Master 50%
+
+# Volume Sound-Mic TextMod-GUI
+alsamixer
+
+# Sleep NOW
+systemctl suspend
+
+
+# battery (needs to be studied and exposed)
+upower -i $(upower -e | grep 'BAT') | grep -E "state|to\ full|percentage"
+
+# Nice bightness value (+control other screen related stuff)
+xrandr --output eDP --brightness .8
+
+# touchpad delay - palm detectiom while writing
+syndaemon -i 0.4 -t -K -R &
+syndaemon -i 0.5 -K -R &
+
+# Record video from cam (needs attention) (can be played while recording -stream)
+streamer -q -c /dev/video0 -f rgb24 -r 3 -t 00:30:00 -o ~/outfile.avi
+
+# Capture a pic
+vgrabbj 
+
+#list + password saved WIFI
+/etc/NetworkManager/system-connections
+
+# Start a new X session + DE / WM 
+# startx session(1) --  Display(2) vt_to_open_in(3)
+startx mate-session -- :3 vt4
+# (1) 
+
+# Hardware config / specs
+inxi -F
+lspci
+sudo lshw -c memory
+sudo dmidecode -t memory
+
+
+#wifi
+nmcli radio wifi on
+
+#Print file
+lp file
+list all folders sorted with size
+du -h -d 1 | sort -h
+
+
+# VNC Remote desktop
+vino > server
+vinagre > client
+
+
+# Restore a file from duplicity backup
+duplicity restore --file-to-restore rel/path/to/file/in/backup file:///url/backup/location /where/to/restor/it
+
+# tap to click not working touchpad (restart module/driver)
+sudo modprobe -r psmouse; sudo modprobe psmouse
+
+# tap to click ( Synaptics)
+synclient TapButton1=1
+# tap to click
+xinput set-prop 15 302 1
+
+# Examin CPU requency
+sudo cpufreq-aperf -o

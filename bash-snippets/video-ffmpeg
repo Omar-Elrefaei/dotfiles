@@ -1,0 +1,8 @@
+# Make a video faster 2X (no audio) 
+ffmpeg -i input.mp4 -filter:v "setpts=0.5*PTS" output.mp4
+
+
+# Print number of frames
+ffmpeg -i long.mp4 -vcodec copy -f rawvideo -y /dev/null 2>&1 | tr ^M '\n'
+#NOT WORKING
+ffmpeg -i long.mp4 -vcodec copy -f rawvideo -y /dev/null 2>&1 | tr ^M '\n' | awk '/^frame=/ {print $2}'|tail -n 1

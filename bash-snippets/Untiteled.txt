@@ -1,0 +1,4 @@
+#"open with" aplications menu + dash search
+/usr/share/applications/
+
+

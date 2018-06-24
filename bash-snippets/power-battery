@@ -1,0 +1,8 @@
+# View active governer
+sudo tlp-stat -p | grep scaling_governor
+
+# View freq
+sudo cpufreq-aperf -o 
+
+# View Power Consumption
+sudo tlp-stat -b -s | grep power_now

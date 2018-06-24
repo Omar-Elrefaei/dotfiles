@@ -1,0 +1,5 @@
+killall -9 apt-get
+dpkg --configure -a
+apt-get update
+apt-get upgrade
+

@@ -1,0 +1,6 @@
+# Pronunce the password of the given WiFi
+pass=$(sudo cat /etc/NetworkManager/system-connections/mamababaeg | grep psk=); echo ${pass: 4} | sed 's/./& /g' | spd-say -e -r -100
+
+# Snap a pic save & display (This is the MAX G50-45 RES)
+name=$RANDOM; vgrabbj -q 100 -w "1280" -H "720" > "$name"; feh "$name"
+hexdump -C /dev/urandom | grep 'ca fe'

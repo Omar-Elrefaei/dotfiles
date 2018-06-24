@@ -1,0 +1,14 @@
+changed: /etc/systemd/system.conf , user.conf
+
+from:
+	#DefaultTimeoutStartSec=90s
+	#DefaultTimeoutStopSec=90s
+
+to:
+	#DefaultTimeoutStartSec=5s
+	#DefaultTimeoutStopSec=5s
+
+
+
+# Disable wakeup on mouse movment
+sudo printf "EHC2\n" > /proc/acpi/wakeup

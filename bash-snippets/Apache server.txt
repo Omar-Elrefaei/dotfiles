@@ -1,0 +1,9 @@
+#start server
+/etc/init.d/apache2 start
+OR
+apache2cli start
+
+/var/www/html
+/etc/apache2
+
+bash: ip address

@@ -1,0 +1,4 @@
+#Copy / Transfare files (Just like cp)
+
+scp file user@host:file
+scp user@host:file file

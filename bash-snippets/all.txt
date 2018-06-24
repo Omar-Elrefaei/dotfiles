@@ -1,0 +1,64 @@
+#Edit a file owned by root
+gksu app /path/to/file
+
+ex: gksu gedit /bin/ex.txt
+
+#See the env variables (aka, apps & commands that you can call every where)
+echo $PATH
+
+# owen a file/folder (let "$USER" as it is)
+sudo chown -R $USER:$USER file/folder
+
+whereis python3.5
+
+#list all installed Desktop enviroments
+ls -l /usr/share/xsessions/
+
+#Make a perminant aliases, env vars & commands(functions)
+nano ~/.bashrc
+#apply with 
+source ~/.bashrc (you can call any file in the current session)
+
+#Declare an env var
+export ENV=value
+
+#run a command in the background -separet procsess
+command &         (return the output to the terminal)
+setsid command    (start a new process with a uniqe PID)
+
+(askubuntu.com/questions/106351/running-programs-in-the-background-from-terminal)
+
+
+#force erease all app/kernel cache from RAM, Mostly safe, but not preferable 
+# (you can replace 3 with 1 to keep kernel >>> I think) 
+sync; echo 3 > /proc/sys/vm/drop_caches
+
+#get number of column & lines in the current teminal
+tput cols/lines 
+
+#all desktop files
+/usr/share/applications/
+
+#purge all removed (but not purged "config files") apps
+dpkg -l |awk '/^rc/ {print $2}' |xargs sudo dpkg --purge
+
+
+# view PDF as html
+pandoc writing.docx > writing.html
+
+# start a wm de (I have writen ~/.xinitrc file)
+xinit or startx
+
+# search all files in a folder (FZF) (can recusive)
+
+# Change time zone (Super+Shift+r to refresh i3, thus i3bar)
+sudo (cp|ln -s) /usr/share/zoneinfo/Egypt /etc/localtime
+#OR TUI
+sudo dpkg-reconfigure tzdata
+#OR timedatectl set-timezone Africa/Cairo				<<< Recommended
+
+# benchmark partition
+hdparm -t /dev/sdXx
+
+# Check if shell is running as root (0 = root)
+echo $EUID 

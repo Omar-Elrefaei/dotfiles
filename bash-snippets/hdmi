@@ -1,0 +1,8 @@
+#Configure display output, if keyboard key does NOT work
+xrandr --output HDMI-0 --mode 1280x7200 --primary
+
+#sound setting
+pavucontrol
+
+#sound test
+alsabat-test
