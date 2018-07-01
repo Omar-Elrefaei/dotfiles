@@ -1,6 +1,5 @@
 .less-history-file:
 .search
-"shutdown
 "fix
 "cli
 "broken
@@ -100,3 +99,4 @@
 "speed
 "pause
 "meta
+"config
