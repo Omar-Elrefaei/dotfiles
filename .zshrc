@@ -54,6 +54,19 @@ calc (){
 echo "$@" | bc
 }
 
+=======
+
+# Compile and Run any simple C/C++ program
+brc (){
+gcc -o "${1%.*}" "$1"     
+./"${1%.*}"
+}
+
+# A simple unix calculator
+calc (){
+echo "$@" | bc
+}
+
 # make a directory and cd to it
 mcd()
 {
@@ -118,6 +131,9 @@ alias cd..='cd ..'
 alias cd,,='cd ..'
 alias cd...='cd ..; cd ..'
 
+alias red-alert="wine /home/omar/.wine/dosdevices/c:/Program\ Files\ \(x86\)/Red\ Alert\ 2\ Yuri\'s\ Revenge/Ra2.exe"
+
+alias pray='ipraytime --latitude 51.1801 --longitude 71.44598 -u +6 -a 3'
 
 
 alias pray='ipraytime --latitude 51.1801 --longitude 71.44598 -u +6 -a 3'
@@ -191,8 +207,6 @@ export PATH=$PATH:$GOPATH/bin
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-  export ZSH=~/.oh-my-zsh
-export ZSH=/home/omar/.oh-my-zsh
 export ZSH=/home/omar/.oh-my-zsh
 
 # Set name of the theme to load. Optionally, if you set this to "random"
