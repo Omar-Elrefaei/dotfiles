@@ -54,7 +54,6 @@ calc (){
 echo "$@" | bc
 }
 
-=======
 
 # Compile and Run any simple C/C++ program
 brc (){
