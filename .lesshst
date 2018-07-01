@@ -1,8 +1,5 @@
 .less-history-file:
 .search
-"rehash
-"update
-"reload
 "shutdown
 "fix
 "cli
@@ -100,3 +97,6 @@
 "prin
 "local
 "execlude
+"speed
+"pause
+"meta
