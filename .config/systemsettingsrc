@@ -1,0 +1,35 @@
+[Basic Settings]
+Indexing-Enabled=false
+
+[DownloadDialog Settings]
+Height 768=512
+Width 1366=700
+
+[General]
+exclude folders[$e]=/snap/simplenote/32/,/snap/tpad/19/,/snap/gnome-3-26-1604/53/,/snap/wavebox/75/,/snap/termplay/1/,/snap/gnome-3-26-1604/31/,/snap/peek/711/,/snap/anbox/46/,/snap/brave/15/,/snap/bucklespring/31/,/snap/brave/17/,/snap/hangups/5/,/snap/simplenote/27/,/snap/writefull/5/,/snap/brave/16/,/snap/core/4206/,/snap/peek/619/,/snap/wavebox/62/,/snap/simplenote/33/,/snap/core/4110/,/snap/core/4017/,/snap/wavebox/76/,/snap/wormhole/23/,/snap/hangups/28/,/snap/bucklespring/23/,/snap/gnome-3-26-1604/27/,/snap/anbox-installer/17/
+first run=true
+folders[$e]=$HOME/
+
+[KPropertiesDialog]
+Height 768=456
+Width 1366=418
+
+[MainWindow]
+Height 600=479
+Height 768=605
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA1IAAAJdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=850
+Width 800=792
+Window-Maximized 600x800=true
+
+[Notification Messages]
+FontSettingsChanged=false
+
+[Open-with settings]
+CompletionMode=5
+History=~/Downloads/firefox/./firefox %U,qupzilla,chrome-gnome-shell,firefox %u,firefox
+
+[PlasmaRunnerManager]
+LaunchCounts=

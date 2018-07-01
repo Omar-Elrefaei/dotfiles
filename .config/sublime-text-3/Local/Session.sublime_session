@@ -1,0 +1,2086 @@
+{
+	"folder_history":
+	[
+		"/home/omar/AP-CSP",
+		"/home/omar/AP-CSP/m",
+		"/home/omar/mid-sized-projects/DynamicSheets",
+		"/home/omar/monero-monitor",
+		"/home/omar/scripts-bin/working/python-howdoi-browser",
+		"/home/omar/python-getting-started",
+		"/home/omar/shehab-omar",
+		"/home/omar/arduino",
+		"/home/omar/machine-learning/tf",
+		"/home/omar/Desktop",
+		"/home/omar/Desktop/a",
+		"/home/omar/machine-learning/tf-image-class",
+		"/home/omar/Desktop/finishing",
+		"/home/omar/finished-projects/DynamicSheets",
+		"/media/omar/CDC7-CC91/DynaminSheet",
+		"/home/omar/Desktop/ex"
+	],
+	"last_version": 3143,
+	"last_window_id": 83,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 355.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ex",
+						"exit\tinstance"
+					],
+					[
+						"err",
+						"error"
+					],
+					[
+						"r",
+						"readline\tfunction"
+					],
+					[
+						"ope",
+						"open\topen"
+					],
+					[
+						"syst",
+						"system\tfunction"
+					],
+					[
+						"Fa",
+						"False\tkeyword"
+					],
+					[
+						"arg",
+						"args\tstatement"
+					],
+					[
+						"F",
+						"False\tinstance"
+					],
+					[
+						"auth",
+						"auth_dict\tstatement"
+					],
+					[
+						"us",
+						"userID\tparam"
+					],
+					[
+						"apiA",
+						"apiAI_json"
+					],
+					[
+						"j",
+						"json"
+					],
+					[
+						"Tw",
+						"twitter"
+					],
+					[
+						"len",
+						"len\tlen"
+					],
+					[
+						"htt",
+						"HttpResponse\tmodule"
+					],
+					[
+						"all",
+						"allUsers\tstatement"
+					],
+					[
+						"al",
+						"all\tall"
+					],
+					[
+						"twee",
+						"tweet"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"ut",
+						"utcnow\tfunction"
+					],
+					[
+						"Pa",
+						"parse"
+					],
+					[
+						"image_",
+						"image_data"
+					],
+					[
+						"pa",
+						"pass\tkeyword"
+					],
+					[
+						"pri",
+						"print\tkeyword"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Python 3/Python3.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python 3/Python3.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 35.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"git: pu",
+						"Git: Push"
+					],
+					[
+						"git: com",
+						"git: commit"
+					],
+					[
+						"git: ",
+						"Git: Commit"
+					],
+					[
+						"git: push",
+						"git: push"
+					],
+					[
+						"git: pus",
+						"Git: Push"
+					],
+					[
+						"git: c",
+						"Git: Commit"
+					],
+					[
+						"git: a",
+						"Git: Add All"
+					],
+					[
+						"git add",
+						"git: remote add"
+					],
+					[
+						"git p",
+						"git: push"
+					],
+					[
+						"git ",
+						"git: commit"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"layng",
+						"Laynger: 1 column"
+					],
+					[
+						"text",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"fre",
+						"View: Toggle Distraction Free Mode"
+					],
+					[
+						"tab",
+						"View: Toggle Tabs"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"lay",
+						"Layout: Single"
+					],
+					[
+						"colum",
+						"Layout: 2 Columns"
+					],
+					[
+						"free",
+						"View: Toggle Distraction Free Mode"
+					],
+					[
+						"lin",
+						"Goto: Line…"
+					],
+					[
+						"count",
+						"Count from 1"
+					],
+					[
+						"git comm",
+						"git: commit"
+					],
+					[
+						"git inc",
+						"git: stash save including untracked files"
+					],
+					[
+						"git c",
+						"git: commit including unstaged files"
+					],
+					[
+						"shell",
+						"SublimeREPL: Shell"
+					],
+					[
+						"git in",
+						"git: init"
+					],
+					[
+						"ter",
+						"Terminal: Open"
+					],
+					[
+						"ui",
+						"UI: Select Theme"
+					],
+					[
+						"\\",
+						"Pretty JSON: JSON query with ./jq"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"remo",
+						"git: checkout remote branch as local"
+					],
+					[
+						"brows",
+						"Preferences: Browse Packages"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"pack",
+						"Package Control: List Unmanaged Packages"
+					],
+					[
+						"sni",
+						"Snippet: IPAddressField (fip)"
+					],
+					[
+						"z",
+						"Activate Materialize Theme"
+					],
+					[
+						"powe",
+						"PowerCursors: Activate all cursors"
+					],
+					[
+						"fr",
+						"View: Toggle Distraction Free Mode"
+					],
+					[
+						"con",
+						"View: Show Console"
+					],
+					[
+						"cal",
+						"Calculate"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"conso",
+						"View: Show Console"
+					],
+					[
+						"spell",
+						"Spelling: Spell Check"
+					],
+					[
+						"repl",
+						"SublimeREPL: Python"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"python",
+						"SublimeREPL: Python"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"ann",
+						"Anaconda: Autoformat PEP8 Errors"
+					],
+					[
+						"ana",
+						"Anaconda: Show error list"
+					],
+					[
+						"view s",
+						"View: Toggle Status Bar"
+					],
+					[
+						"min",
+						"View: Toggle Minimap"
+					],
+					[
+						"minm",
+						"Pretty JSON: Minify (compress) JSON"
+					],
+					[
+						"di",
+						"Package Control: Disable Package"
+					],
+					[
+						"prv ",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pyd",
+						"Python 2 Doc Search (PyDOC)"
+					],
+					[
+						"th",
+						"UI: Select Theme"
+					],
+					[
+						"low",
+						"Convert Case: Lower Case"
+					],
+					[
+						"bro",
+						"View In Browser"
+					],
+					[
+						"pyth",
+						"Set Syntax: PythonImproved"
+					],
+					[
+						"py",
+						"Set Syntax: PythonImproved"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"spe",
+						"Google Spell Check"
+					],
+					[
+						"replpy",
+						"SublimeREPL: Python"
+					],
+					[
+						"json v",
+						"Pretty JSON: Validate"
+					],
+					[
+						"jsin",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"wr",
+						"Word Wrap: Toggle"
+					],
+					[
+						"next",
+						"Set Syntax: Puppet"
+					],
+					[
+						"js",
+						"JSON Reindent: reindent file or selection"
+					],
+					[
+						"toge",
+						"View: Toggle Side Bar"
+					],
+					[
+						"pep",
+						"Anaconda: Autoformat PEP8 Errors"
+					],
+					[
+						"auto",
+						"Toggle AutoSave: all files"
+					],
+					[
+						"activate",
+						"Material Theme: Activate theme"
+					],
+					[
+						"mater",
+						"Material Theme: Activate theme"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"tex",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"pe",
+						"PowerCursors: Exit"
+					],
+					[
+						"w",
+						"Word Wrap: Toggle"
+					],
+					[
+						"p8",
+						"Anaconda: Autoformat PEP8 Errors"
+					],
+					[
+						"dja",
+						"Set Syntax: Python (Django)"
+					],
+					[
+						"snippet",
+						"BetterSnippetManager: Create New Snippet"
+					],
+					[
+						"s",
+						"Snippet: __magic__"
+					],
+					[
+						"sett",
+						"Preferences: Settings"
+					],
+					[
+						"pep8",
+						"Anaconda: Autoformat PEP8 Errors"
+					],
+					[
+						"comm",
+						"Toggle Block Comment"
+					],
+					[
+						"pa",
+						"Package Control: List Packages"
+					],
+					[
+						"file",
+						"A File Icon: Environment"
+					],
+					[
+						"open f",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"toggle",
+						"View: Toggle Status Bar"
+					],
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
+						"file m",
+						"A File Icon: Environment"
+					],
+					[
+						"comma",
+						"Terminality: Browse Commands..."
+					],
+					[
+						"PA",
+						"Package Control: List Packages"
+					],
+					[
+						"warp",
+						"Word Wrap: Toggle"
+					],
+					[
+						"wa",
+						"Word Wrap: Toggle"
+					],
+					[
+						"pv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"terminali",
+						"Terminality: Browse Commands..."
+					],
+					[
+						"togle si",
+						"View: Toggle Side Bar"
+					],
+					[
+						"togle",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"anacon",
+						"Anaconda: Vagrant Enable"
+					],
+					[
+						"pains",
+						"Package Control: Install Package"
+					],
+					[
+						"anaconda",
+						"Anaconda: Goto Python object"
+					],
+					[
+						"spy",
+						"Set Syntax: Python3"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"wor",
+						"Word Wrap: Toggle"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"book",
+						"Bookmarks: Clear All"
+					],
+					[
+						"IND",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"TAB",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"command",
+						"Terminality: Browse Commands..."
+					],
+					[
+						"git",
+						"git: branch"
+					],
+					[
+						"ba",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"pin",
+						"Package Control: Install Package"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"pythonim",
+						"Set Syntax: PythonImproved"
+					],
+					[
+						"ad in",
+						"Package Control: Advanced Install Package"
+					],
+					[
+						"vib",
+						"View In Browser"
+					],
+					[
+						"pain",
+						"Package Control: Install Package"
+					],
+					[
+						"parin",
+						"Package Control: Install Package"
+					],
+					[
+						"pare",
+						"Package Control: Remove Package"
+					],
+					[
+						"termin",
+						"Terminality: Browse Commands..."
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 497.0
+			},
+			"console":
+			{
+				"height": 153.0,
+				"history":
+				[
+					"sublime.version()",
+					"view.run_command(\"show_overlay\")",
+					"view.run_command(\"supeo\")",
+					"view.run_command(\"super_calculadto\")",
+					"view.run_command(\"super_calculadtor\")",
+					"view.run_command(\"insert\", {\"charactars\": 10})",
+					"view.run_command(\"insert(\"omar\")\")",
+					"sublime.insert(\"omar\")",
+					"sublime.version()",
+					"sublime.drag_select {\"event\": {\"button\": 1, \"x\": 86.4135864136, \"y\": 657.842157842}}",
+					"drag_select {\"event\": {\"button\": 1, \"x\": 86.4135864136, \"y\": 657.842157842}}",
+					"sublime.insert(\"omar\")",
+					"sublime.insertCharacters(\"Hello World!\\n\")",
+					"sublime.build()",
+					"sublime.log_commands(True)",
+					"``sublime.log_commands(True)``",
+					"insertCharacters (\"Hello World!\\n\")",
+					"insertCharacters(\"Hello World!\\n\")",
+					"insertCharacters \"Hello World!\\n\"",
+					"build()",
+					"build",
+					"show_overlay",
+					"exit()",
+					"exit",
+					"show_overlay",
+					"super_calculator()",
+					"super_calculator",
+					"k",
+					"o"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": true
+			},
+			"file_history":
+			[
+				"/home/omar/.config/sublime-text-3/Packages/Laynger/Default (Windows).sublime-keymap",
+				"/home/omar/.config/sublime-text-3/Packages/Laynger/Laynger.sublime-settings",
+				"/home/omar/.config/sublime-text-3/Packages/User/Laynger.sublime-settings",
+				"/home/omar/.config/sublime-text-3/Packages/Laynger/Default (OSX).sublime-keymap",
+				"/home/omar/.config/sublime-text-3/Packages/WordCount/WordCount.sublime-settings",
+				"/home/omar/AP-CSP/Answers",
+				"/home/omar/.config/sublime-text-3/Packages/Python 3/Python3.sublime-build",
+				"/home/omar/AP-CSP/kin.py",
+				"/home/omar/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/omar/.config/sublime-text-3/Packages/Super Calculator/Super Calculator.sublime-settings",
+				"/home/omar/.config/sublime-text-3/Packages/User/Super Calculator.sublime-settings",
+				"/home/omar/.config/sublime-text-3/Packages/Super Calculator/Default (Linux).sublime-keymap",
+				"/home/omar/.config/sublime-text-3/Packages/PowerCursors/Default (Linux).sublime-keymap",
+				"/home/omar/.config/sublime-text-3/Packages/SublimeREPL/repls/sublimepython_repl.py",
+				"/home/omar/.config/sublime-text-3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+				"/home/omar/.config/sublime-text-3/Packages/SublimeREPL/Default.sublime-commands",
+				"/home/omar/AP-CSP/DynamicSheet.java",
+				"/home/omar/Omar.html",
+				"/home/omar/last-back",
+				"/home/omar/monero-monitor/data/html/popup.html",
+				"/home/omar/tests",
+				"/home/omar/random-tabs/many-260",
+				"/home/omar/random-tabs/1",
+				"/home/omar/random-tabs/semi-cat",
+				"/home/~260",
+				"/home/omar/scripts-bin/working/python-howdoi-browser/open-new-window-cross-platform.txt",
+				"/home/omar/scripts-bin/working/python-howdoi-browser/.onsave",
+				"/home/omar/ewifn",
+				"/home/omar/scripts-bin/working/python-howdoi-browser/.howbr.py.swp",
+				"/home/omar/scripts-bin/working/python-howdoi-browser/worth-looking-at.txt",
+				"/home/omar/scripts-bin/working/python-howdoi-browser/howdoi.py",
+				"/home/omar/scripts-bin/working/python-howdoi-browser/howbr.py",
+				"/home/omar/scripts-bin/working/python-howdoi-browser/test.py",
+				"/home/omar/Downloads/openSUSE-Tumbleweed-DVD-x86_64-Snapshot20180102-Media.iso.meta4",
+				"/home/omar/.config/sublime-text-3/Packages/KeyboardSpellCheck/KeyboardSpellCheck.sublime-settings",
+				"/home/omar/.config/sublime-text-3/Packages/AutoSpell/AutoSpell.sublime-settings",
+				"/home/omar/.local/share/applications/sublime-text.desktop",
+				"/home/omar/python-getting-started/hello/models.py",
+				"/home/omar/python-getting-started/gettingstarted/settings.py",
+				"/home/omar/python-getting-started/hello/json/authenticate-twitter.json",
+				"/home/omar/python-getting-started/tweepyTesting.py",
+				"/home/omar/python-getting-started/hello/tweepyFLOW.py",
+				"/home/omar/python-getting-started/hello/twitter-acc",
+				"/home/omar/python-getting-started/hello/Google+Api.json",
+				"/home/omar/python-getting-started/hello/tests.py",
+				"/home/omar/python-getting-started/gettingstarted/urls.py",
+				"/home/omar/python-getting-started/hello/templates/pp.html",
+				"/home/omar/python-getting-started/hello/omar/pp.html",
+				"/home/omar/python-getting-started/hello/views-oldCode.py",
+				"/home/omar/python-getting-started/hello/NOTNOT.py",
+				"/home/omar/Desktop/pg-test.py",
+				"/home/omar/Desktop/pg-test2.py",
+				"/home/omar/python-getting-started/hello/speed",
+				"/home/omar/python-getting-started/hello/exJSON2.json",
+				"/home/omar/python-getting-started/hello/backupJSON.json",
+				"/home/omar/.config/sublime-text-3/Packages/Heroku/Heroku local.sublime-build",
+				"/home/omar/python-getting-started/hello/exJSON.json",
+				"/home/omar/python-getting-started/hello/LATERTODO",
+				"/home/omar/.config/sublime-text-3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+				"/home/omar/python-getting-started/hello/untitled.py",
+				"/home/omar/python-getting-started/hello/untitleds.py",
+				"/home/omar/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/home/omar/python-getting-started/requirements.txt",
+				"/home/omar/.config/sublime-text-3/Packages/Material Theme/messages/install.md",
+				"/home/omar/python-getting-started/hello/asasa",
+				"/home/omar/python-getting-started/NOOOOOIDIDTHAT.txt",
+				"/home/omar/.config/sublime-text-3/Packages/Material Theme/messages.json",
+				"/home/omar/.config/sublime-text-3/Packages/Material Theme/messages/recent.md",
+				"/home/omar/python-getting-started/hello/migrations/0007_auto_20170822_1748.py",
+				"/home/omar/python-getting-started/hello/migrations/0005_auto_20170822_1745.py",
+				"/home/omar/python-getting-started/hello/migrations/0006_auto_20170822_1748.py",
+				"/home/omar/python-getting-started/testing.py",
+				"/home/omar/Downloads/build-a-molecule_en.jnlp",
+				"/home/omar/python-getting-started/hello/migrations/__pycache__/0002_auto_20170820_0737.cpython-35.pyc",
+				"/home/omar/python-getting-started/hello/migrations/__init__.py",
+				"/home/omar/python-getting-started/hello/migrations/0001_initial.py",
+				"/home/omar/python-getting-started/hello/migrations/0002_auto_20170820_0737.py",
+				"/home/omar/python-getting-started/hello/migrations/0004_delete_tokendb.py",
+				"/home/omar/python-getting-started/gettingstarted/staticfiles/staticfiles.json",
+				"/home/omar/python-getting-started/app.json",
+				"/home/omar/python-getting-started/div",
+				"/home/omar/.config/sublime-text-3/Packages/Anaconda/Completion Rules.tmPreferences",
+				"/home/omar/python-getting-started/iamNEWfile.txt",
+				"/home/omar/.cache/heroku/plugins.json",
+				"/home/omar/python-getting-started/Procfile",
+				"/home/omar/python-getting-started/hello/admin.py",
+				"/home/omar/python-getting-started/hello/testing.py",
+				"/home/omar/python-getting-started/hello/templates/index.html",
+				"/home/omar/python-getting-started/hello/__init__.py",
+				"/home/omar/python-getting-started/manage.py",
+				"/home/omar/python-getting-started/runtime.txt",
+				"/home/omar/python-getting-started/hello/static/humans.txt",
+				"/home/omar/python-getting-started/staticfiles/omar.txt",
+				"/home/omar/python-getting-started/gettingstarted/__init__.py",
+				"/home/omar/python-getting-started/humans.txt",
+				"/home/omar/Downloads/0bd98e63-3784-4675-8425-d5d229e04ab6",
+				"/home/omar/.local/share/anaconda/run/anaconda-5/anaconda.sock",
+				"/home/omar/Downloads/tweety-tweety-console-1502720210854.txt",
+				"/home/omar/python/d.py",
+				"/home/omar/python-getting-started/Procfile.windows",
+				"/media/omar/MY DATA/OneDrive/Virtual-High-School/vhs.html",
+				"/media/omar/MY DATA/OneDrive/Virtual-High-School/vhs.py",
+				"/media/omar/MY DATA/OneDrive/Virtual-High-School/vhs-login.py",
+				"/usr/share/applications/compiz.desktop",
+				"/usr/share/applications/sublime.desktop",
+				"/home/omar/.local/share/umake/ide/sublime-text/sublime_text.desktop",
+				"/home/omar/python-getting-started/gettingstarted/humans.txt",
+				"/home/omar/python-getting-started/README.md",
+				"/home/omar/machine-learning/tf-files/inception/imagenet_2012_challenge_label_map_proto.pbtxt",
+				"/home/omar/.config/sublime-text-3/Packages/Python/Python.sublime-build",
+				"/home/omar/.oracle_jre_usage/a4831904677b5620.timestamp",
+				"/etc/default/tlp",
+				"/usr/share/applications/arduino.desktop",
+				"/usr/share/applications/Android.desktop",
+				"/usr/share/applications/arduino-arduinoide.desktop",
+				"/usr/share/applications/mate-about.desktop",
+				"/home/omar/arduino/manytabs.sublime-project",
+				"/home/omar/arduino/items",
+				"/home/omar/.config/sublime-text-3/Packages/QuickMenu/QuickMenu_main.py",
+				"/usr/share/applications/vivaldi-snapshot.desktop",
+				"/opt/vivaldi-snapshot/vivaldi-snapshot",
+				"/usr/bin/vivaldi",
+				"/home/omar/.config/session/ark_10a182c98ac317bcf8149537005465031800000018130053_1495370064_908070",
+				"/run/network/ifstate",
+				"/lib/systemd/systemd",
+				"/run/network/ifstate.enp2s0",
+				"/usr/share/plymouth/themes/ubuntu-text/ubuntu-text.plymouth",
+				"/etc/systemd/system/networking.service.d/override.conf"
+			],
+			"find":
+			{
+				"height": 41.0
+			},
+			"find_in_files":
+			{
+				"height": 101.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"(\\(.*) and (.*)\\) .*e",
+					"(\\ (.*) and (.*) \\) .*e",
+					"(\\(.*) and (.*)\\) .*e",
+					"if (.*) and (.*):",
+					"if .* and *.:",
+					"if *. and *.:",
+					"if (.*) and (.*)",
+					"if .* and .*",
+					"python",
+					" ",
+					"isplacment",
+					"vo"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\\1 != None \\) and \\( \\2 != None \\)",
+					"\\( \\1 != None \\) and \\( \\2 != None \\)",
+					"if \\(\\1 or \\2\\) != None :",
+					"if \\(\\1 and \\2\\) != None :",
+					"if \\(\\1 and \\2\\) != None",
+					"\\1",
+					"iv"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 161.0
+			},
+			"menu_visible": false,
+			"output.GitSavvy":
+			{
+				"height": 124.0
+			},
+			"output.exec":
+			{
+				"height": 182.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 127.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 162.0
+			},
+			"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+			"replace":
+			{
+				"height": 73.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"getMarkerDiv"
+					]
+				],
+				"width": 392.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": false,
+			"side_bar_width": 162.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1364.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ex",
+						"exit\tinstance"
+					],
+					[
+						"err",
+						"error"
+					],
+					[
+						"r",
+						"readline\tfunction"
+					],
+					[
+						"ope",
+						"open\topen"
+					],
+					[
+						"syst",
+						"system\tfunction"
+					],
+					[
+						"Fa",
+						"False\tkeyword"
+					],
+					[
+						"arg",
+						"args\tstatement"
+					],
+					[
+						"F",
+						"False\tinstance"
+					],
+					[
+						"auth",
+						"auth_dict\tstatement"
+					],
+					[
+						"us",
+						"userID\tparam"
+					],
+					[
+						"apiA",
+						"apiAI_json"
+					],
+					[
+						"j",
+						"json"
+					],
+					[
+						"Tw",
+						"twitter"
+					],
+					[
+						"len",
+						"len\tlen"
+					],
+					[
+						"htt",
+						"HttpResponse\tmodule"
+					],
+					[
+						"all",
+						"allUsers\tstatement"
+					],
+					[
+						"al",
+						"all\tall"
+					],
+					[
+						"twee",
+						"tweet"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"ut",
+						"utcnow\tfunction"
+					],
+					[
+						"Pa",
+						"parse"
+					],
+					[
+						"image_",
+						"image_data"
+					],
+					[
+						"pa",
+						"pass\tkeyword"
+					],
+					[
+						"pri",
+						"print\tkeyword"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "curl 'http://filzmail.com/' -H 'Pragma: no-cache' -H 'Origin: http://filzmail.com' -H 'Accept-Encoding: gzip, deflate' -H 'Accept-Language: en-US,en;q=0.9' -H 'Upgrade-Insecure-Requests: 1' -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/64.0.3282.167 Chrome/64.0.3282.167 Safari/537.36' -H 'Content-Type: application/x-www-form-urlencoded' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8' -H 'Cache-Control: no-cache' -H 'Referer: http://filzmail.com/' -H 'Cookie: T12L_LANG=en; PHPSESSID=0e05cbc44a874ce2655c34eed29cdf62' -H 'Connection: keep-alive' -H 'DNT: 1' --data 'mail=yjkrdtj%40filzmail.com&resettime.x=12&resettime.y=19&resettime=Give+me+full+24+Hours+again' --compressed > /dev/null",
+					"settings":
+					{
+						"buffer_size": 798,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Python 3/Python3.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python 3/Python3.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "clo",
+				"selected_items":
+				[
+					[
+						"clo",
+						"File: Close"
+					],
+					[
+						"tab",
+						"View: Toggle Tabs"
+					],
+					[
+						"caps",
+						"Convert Case: Swap Case"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"git: pu",
+						"Git: Push"
+					],
+					[
+						"git: com",
+						"git: commit"
+					],
+					[
+						"git: ",
+						"Git: Commit"
+					],
+					[
+						"git: push",
+						"git: push"
+					],
+					[
+						"git: pus",
+						"Git: Push"
+					],
+					[
+						"git: c",
+						"Git: Commit"
+					],
+					[
+						"git: a",
+						"Git: Add All"
+					],
+					[
+						"git add",
+						"git: remote add"
+					],
+					[
+						"git p",
+						"git: push"
+					],
+					[
+						"git ",
+						"git: commit"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"layng",
+						"Laynger: 1 column"
+					],
+					[
+						"text",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"fre",
+						"View: Toggle Distraction Free Mode"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"lay",
+						"Layout: Single"
+					],
+					[
+						"colum",
+						"Layout: 2 Columns"
+					],
+					[
+						"free",
+						"View: Toggle Distraction Free Mode"
+					],
+					[
+						"lin",
+						"Goto: Line…"
+					],
+					[
+						"count",
+						"Count from 1"
+					],
+					[
+						"git comm",
+						"git: commit"
+					],
+					[
+						"git inc",
+						"git: stash save including untracked files"
+					],
+					[
+						"git c",
+						"git: commit including unstaged files"
+					],
+					[
+						"shell",
+						"SublimeREPL: Shell"
+					],
+					[
+						"git in",
+						"git: init"
+					],
+					[
+						"ter",
+						"Terminal: Open"
+					],
+					[
+						"ui",
+						"UI: Select Theme"
+					],
+					[
+						"\\",
+						"Pretty JSON: JSON query with ./jq"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"remo",
+						"git: checkout remote branch as local"
+					],
+					[
+						"brows",
+						"Preferences: Browse Packages"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"pack",
+						"Package Control: List Unmanaged Packages"
+					],
+					[
+						"sni",
+						"Snippet: IPAddressField (fip)"
+					],
+					[
+						"z",
+						"Activate Materialize Theme"
+					],
+					[
+						"powe",
+						"PowerCursors: Activate all cursors"
+					],
+					[
+						"fr",
+						"View: Toggle Distraction Free Mode"
+					],
+					[
+						"con",
+						"View: Show Console"
+					],
+					[
+						"cal",
+						"Calculate"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"conso",
+						"View: Show Console"
+					],
+					[
+						"spell",
+						"Spelling: Spell Check"
+					],
+					[
+						"repl",
+						"SublimeREPL: Python"
+					],
+					[
+						"python",
+						"SublimeREPL: Python"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"ann",
+						"Anaconda: Autoformat PEP8 Errors"
+					],
+					[
+						"ana",
+						"Anaconda: Show error list"
+					],
+					[
+						"view s",
+						"View: Toggle Status Bar"
+					],
+					[
+						"min",
+						"View: Toggle Minimap"
+					],
+					[
+						"minm",
+						"Pretty JSON: Minify (compress) JSON"
+					],
+					[
+						"di",
+						"Package Control: Disable Package"
+					],
+					[
+						"prv ",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pyd",
+						"Python 2 Doc Search (PyDOC)"
+					],
+					[
+						"th",
+						"UI: Select Theme"
+					],
+					[
+						"low",
+						"Convert Case: Lower Case"
+					],
+					[
+						"bro",
+						"View In Browser"
+					],
+					[
+						"pyth",
+						"Set Syntax: PythonImproved"
+					],
+					[
+						"py",
+						"Set Syntax: PythonImproved"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"spe",
+						"Google Spell Check"
+					],
+					[
+						"replpy",
+						"SublimeREPL: Python"
+					],
+					[
+						"json v",
+						"Pretty JSON: Validate"
+					],
+					[
+						"jsin",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"wr",
+						"Word Wrap: Toggle"
+					],
+					[
+						"next",
+						"Set Syntax: Puppet"
+					],
+					[
+						"js",
+						"JSON Reindent: reindent file or selection"
+					],
+					[
+						"toge",
+						"View: Toggle Side Bar"
+					],
+					[
+						"pep",
+						"Anaconda: Autoformat PEP8 Errors"
+					],
+					[
+						"auto",
+						"Toggle AutoSave: all files"
+					],
+					[
+						"activate",
+						"Material Theme: Activate theme"
+					],
+					[
+						"mater",
+						"Material Theme: Activate theme"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"tex",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"pe",
+						"PowerCursors: Exit"
+					],
+					[
+						"w",
+						"Word Wrap: Toggle"
+					],
+					[
+						"p8",
+						"Anaconda: Autoformat PEP8 Errors"
+					],
+					[
+						"dja",
+						"Set Syntax: Python (Django)"
+					],
+					[
+						"snippet",
+						"BetterSnippetManager: Create New Snippet"
+					],
+					[
+						"s",
+						"Snippet: __magic__"
+					],
+					[
+						"sett",
+						"Preferences: Settings"
+					],
+					[
+						"pep8",
+						"Anaconda: Autoformat PEP8 Errors"
+					],
+					[
+						"comm",
+						"Toggle Block Comment"
+					],
+					[
+						"pa",
+						"Package Control: List Packages"
+					],
+					[
+						"file",
+						"A File Icon: Environment"
+					],
+					[
+						"open f",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"toggle",
+						"View: Toggle Status Bar"
+					],
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
+						"file m",
+						"A File Icon: Environment"
+					],
+					[
+						"comma",
+						"Terminality: Browse Commands..."
+					],
+					[
+						"PA",
+						"Package Control: List Packages"
+					],
+					[
+						"warp",
+						"Word Wrap: Toggle"
+					],
+					[
+						"wa",
+						"Word Wrap: Toggle"
+					],
+					[
+						"pv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"terminali",
+						"Terminality: Browse Commands..."
+					],
+					[
+						"togle si",
+						"View: Toggle Side Bar"
+					],
+					[
+						"togle",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"anacon",
+						"Anaconda: Vagrant Enable"
+					],
+					[
+						"pains",
+						"Package Control: Install Package"
+					],
+					[
+						"anaconda",
+						"Anaconda: Goto Python object"
+					],
+					[
+						"spy",
+						"Set Syntax: Python3"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"wor",
+						"Word Wrap: Toggle"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"book",
+						"Bookmarks: Clear All"
+					],
+					[
+						"IND",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"TAB",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"command",
+						"Terminality: Browse Commands..."
+					],
+					[
+						"git",
+						"git: branch"
+					],
+					[
+						"ba",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"pin",
+						"Package Control: Install Package"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"pythonim",
+						"Set Syntax: PythonImproved"
+					],
+					[
+						"ad in",
+						"Package Control: Advanced Install Package"
+					],
+					[
+						"vib",
+						"View In Browser"
+					],
+					[
+						"pain",
+						"Package Control: Install Package"
+					],
+					[
+						"parin",
+						"Package Control: Install Package"
+					],
+					[
+						"pare",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 497.0
+			},
+			"console":
+			{
+				"height": 153.0,
+				"history":
+				[
+					"sublime.version()",
+					"view.run_command(\"show_overlay\")",
+					"view.run_command(\"supeo\")",
+					"view.run_command(\"super_calculadto\")",
+					"view.run_command(\"super_calculadtor\")",
+					"view.run_command(\"insert\", {\"charactars\": 10})",
+					"view.run_command(\"insert(\"omar\")\")",
+					"sublime.insert(\"omar\")",
+					"sublime.version()",
+					"sublime.drag_select {\"event\": {\"button\": 1, \"x\": 86.4135864136, \"y\": 657.842157842}}",
+					"drag_select {\"event\": {\"button\": 1, \"x\": 86.4135864136, \"y\": 657.842157842}}",
+					"sublime.insert(\"omar\")",
+					"sublime.insertCharacters(\"Hello World!\\n\")",
+					"sublime.build()",
+					"sublime.log_commands(True)",
+					"``sublime.log_commands(True)``",
+					"insertCharacters (\"Hello World!\\n\")",
+					"insertCharacters(\"Hello World!\\n\")",
+					"insertCharacters \"Hello World!\\n\"",
+					"build()",
+					"build",
+					"show_overlay",
+					"exit()",
+					"exit",
+					"show_overlay",
+					"super_calculator()",
+					"super_calculator",
+					"k",
+					"o"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": true
+			},
+			"expanded_folders":
+			[
+				"/home/omar/AP-CSP"
+			],
+			"file_history":
+			[
+				"/home/omar/AP-CSP/kin.py",
+				"/home/omar/AP-CSP/explore",
+				"/home/omar/AP-CSP/Answers",
+				"/home/omar/.config/sublime-text-3/Packages/Mp3Player/README.md",
+				"/home/omar/.config/sublime-text-3/Packages/Mp3Player/Mp3Player.sublime-commands",
+				"/home/omar/.config/sublime-text-3/Packages/Mp3Player/Default (Linux).sublime-keymap",
+				"/home/omar/.config/sublime-text-3/Packages/Laynger/Default (Windows).sublime-keymap",
+				"/home/omar/.config/sublime-text-3/Packages/Laynger/Laynger.sublime-settings",
+				"/home/omar/.config/sublime-text-3/Packages/User/Laynger.sublime-settings",
+				"/home/omar/.config/sublime-text-3/Packages/Laynger/Default (OSX).sublime-keymap",
+				"/home/omar/.config/sublime-text-3/Packages/WordCount/WordCount.sublime-settings",
+				"/home/omar/.config/sublime-text-3/Packages/Python 3/Python3.sublime-build",
+				"/home/omar/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/omar/.config/sublime-text-3/Packages/Super Calculator/Super Calculator.sublime-settings",
+				"/home/omar/.config/sublime-text-3/Packages/User/Super Calculator.sublime-settings",
+				"/home/omar/.config/sublime-text-3/Packages/Super Calculator/Default (Linux).sublime-keymap",
+				"/home/omar/.config/sublime-text-3/Packages/PowerCursors/Default (Linux).sublime-keymap",
+				"/home/omar/.config/sublime-text-3/Packages/SublimeREPL/repls/sublimepython_repl.py",
+				"/home/omar/.config/sublime-text-3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+				"/home/omar/.config/sublime-text-3/Packages/SublimeREPL/Default.sublime-commands",
+				"/home/omar/AP-CSP/DynamicSheet.java",
+				"/home/omar/Omar.html",
+				"/home/omar/last-back",
+				"/home/omar/monero-monitor/data/html/popup.html",
+				"/home/omar/tests",
+				"/home/omar/random-tabs/many-260",
+				"/home/omar/random-tabs/1",
+				"/home/omar/random-tabs/semi-cat",
+				"/home/~260",
+				"/home/omar/scripts-bin/working/python-howdoi-browser/open-new-window-cross-platform.txt",
+				"/home/omar/scripts-bin/working/python-howdoi-browser/.onsave",
+				"/home/omar/ewifn",
+				"/home/omar/scripts-bin/working/python-howdoi-browser/.howbr.py.swp",
+				"/home/omar/scripts-bin/working/python-howdoi-browser/worth-looking-at.txt",
+				"/home/omar/scripts-bin/working/python-howdoi-browser/howdoi.py",
+				"/home/omar/scripts-bin/working/python-howdoi-browser/howbr.py",
+				"/home/omar/scripts-bin/working/python-howdoi-browser/test.py",
+				"/home/omar/Downloads/openSUSE-Tumbleweed-DVD-x86_64-Snapshot20180102-Media.iso.meta4",
+				"/home/omar/.config/sublime-text-3/Packages/KeyboardSpellCheck/KeyboardSpellCheck.sublime-settings",
+				"/home/omar/.config/sublime-text-3/Packages/AutoSpell/AutoSpell.sublime-settings",
+				"/home/omar/.local/share/applications/sublime-text.desktop",
+				"/home/omar/python-getting-started/hello/models.py",
+				"/home/omar/python-getting-started/gettingstarted/settings.py",
+				"/home/omar/python-getting-started/hello/json/authenticate-twitter.json",
+				"/home/omar/python-getting-started/tweepyTesting.py",
+				"/home/omar/python-getting-started/hello/tweepyFLOW.py",
+				"/home/omar/python-getting-started/hello/twitter-acc",
+				"/home/omar/python-getting-started/hello/Google+Api.json",
+				"/home/omar/python-getting-started/hello/tests.py",
+				"/home/omar/python-getting-started/gettingstarted/urls.py",
+				"/home/omar/python-getting-started/hello/templates/pp.html",
+				"/home/omar/python-getting-started/hello/omar/pp.html",
+				"/home/omar/python-getting-started/hello/views-oldCode.py",
+				"/home/omar/python-getting-started/hello/NOTNOT.py",
+				"/home/omar/Desktop/pg-test.py",
+				"/home/omar/Desktop/pg-test2.py",
+				"/home/omar/python-getting-started/hello/speed",
+				"/home/omar/python-getting-started/hello/exJSON2.json",
+				"/home/omar/python-getting-started/hello/backupJSON.json",
+				"/home/omar/.config/sublime-text-3/Packages/Heroku/Heroku local.sublime-build",
+				"/home/omar/python-getting-started/hello/exJSON.json",
+				"/home/omar/python-getting-started/hello/LATERTODO",
+				"/home/omar/.config/sublime-text-3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+				"/home/omar/python-getting-started/hello/untitled.py",
+				"/home/omar/python-getting-started/hello/untitleds.py",
+				"/home/omar/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/home/omar/python-getting-started/requirements.txt",
+				"/home/omar/.config/sublime-text-3/Packages/Material Theme/messages/install.md",
+				"/home/omar/python-getting-started/hello/asasa",
+				"/home/omar/python-getting-started/NOOOOOIDIDTHAT.txt",
+				"/home/omar/.config/sublime-text-3/Packages/Material Theme/messages.json",
+				"/home/omar/.config/sublime-text-3/Packages/Material Theme/messages/recent.md",
+				"/home/omar/python-getting-started/hello/migrations/0007_auto_20170822_1748.py",
+				"/home/omar/python-getting-started/hello/migrations/0005_auto_20170822_1745.py",
+				"/home/omar/python-getting-started/hello/migrations/0006_auto_20170822_1748.py",
+				"/home/omar/python-getting-started/testing.py",
+				"/home/omar/Downloads/build-a-molecule_en.jnlp",
+				"/home/omar/python-getting-started/hello/migrations/__pycache__/0002_auto_20170820_0737.cpython-35.pyc",
+				"/home/omar/python-getting-started/hello/migrations/__init__.py",
+				"/home/omar/python-getting-started/hello/migrations/0001_initial.py",
+				"/home/omar/python-getting-started/hello/migrations/0002_auto_20170820_0737.py",
+				"/home/omar/python-getting-started/hello/migrations/0004_delete_tokendb.py",
+				"/home/omar/python-getting-started/gettingstarted/staticfiles/staticfiles.json",
+				"/home/omar/python-getting-started/app.json",
+				"/home/omar/python-getting-started/div",
+				"/home/omar/.config/sublime-text-3/Packages/Anaconda/Completion Rules.tmPreferences",
+				"/home/omar/python-getting-started/iamNEWfile.txt",
+				"/home/omar/.cache/heroku/plugins.json",
+				"/home/omar/python-getting-started/Procfile",
+				"/home/omar/python-getting-started/hello/admin.py",
+				"/home/omar/python-getting-started/hello/testing.py",
+				"/home/omar/python-getting-started/hello/templates/index.html",
+				"/home/omar/python-getting-started/hello/__init__.py",
+				"/home/omar/python-getting-started/manage.py",
+				"/home/omar/python-getting-started/runtime.txt",
+				"/home/omar/python-getting-started/hello/static/humans.txt",
+				"/home/omar/python-getting-started/staticfiles/omar.txt",
+				"/home/omar/python-getting-started/gettingstarted/__init__.py",
+				"/home/omar/python-getting-started/humans.txt",
+				"/home/omar/Downloads/0bd98e63-3784-4675-8425-d5d229e04ab6",
+				"/home/omar/.local/share/anaconda/run/anaconda-5/anaconda.sock",
+				"/home/omar/Downloads/tweety-tweety-console-1502720210854.txt",
+				"/home/omar/python/d.py",
+				"/home/omar/python-getting-started/Procfile.windows",
+				"/media/omar/MY DATA/OneDrive/Virtual-High-School/vhs.html",
+				"/media/omar/MY DATA/OneDrive/Virtual-High-School/vhs.py",
+				"/media/omar/MY DATA/OneDrive/Virtual-High-School/vhs-login.py",
+				"/usr/share/applications/compiz.desktop",
+				"/usr/share/applications/sublime.desktop",
+				"/home/omar/.local/share/umake/ide/sublime-text/sublime_text.desktop",
+				"/home/omar/python-getting-started/gettingstarted/humans.txt",
+				"/home/omar/python-getting-started/README.md",
+				"/home/omar/machine-learning/tf-files/inception/imagenet_2012_challenge_label_map_proto.pbtxt",
+				"/home/omar/.config/sublime-text-3/Packages/Python/Python.sublime-build",
+				"/home/omar/.oracle_jre_usage/a4831904677b5620.timestamp",
+				"/etc/default/tlp",
+				"/usr/share/applications/arduino.desktop",
+				"/usr/share/applications/Android.desktop",
+				"/usr/share/applications/arduino-arduinoide.desktop",
+				"/usr/share/applications/mate-about.desktop",
+				"/home/omar/arduino/manytabs.sublime-project",
+				"/home/omar/arduino/items",
+				"/home/omar/.config/sublime-text-3/Packages/QuickMenu/QuickMenu_main.py",
+				"/usr/share/applications/vivaldi-snapshot.desktop",
+				"/opt/vivaldi-snapshot/vivaldi-snapshot",
+				"/usr/bin/vivaldi",
+				"/home/omar/.config/session/ark_10a182c98ac317bcf8149537005465031800000018130053_1495370064_908070",
+				"/run/network/ifstate"
+			],
+			"find":
+			{
+				"height": 41.0
+			},
+			"find_in_files":
+			{
+				"height": 101.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"(\\(.*) and (.*)\\) .*e",
+					"(\\ (.*) and (.*) \\) .*e",
+					"(\\(.*) and (.*)\\) .*e",
+					"if (.*) and (.*):",
+					"if .* and *.:",
+					"if *. and *.:",
+					"if (.*) and (.*)",
+					"if .* and .*",
+					"python",
+					" ",
+					"isplacment",
+					"vo"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\\1 != None \\) and \\( \\2 != None \\)",
+					"\\( \\1 != None \\) and \\( \\2 != None \\)",
+					"if \\(\\1 or \\2\\) != None :",
+					"if \\(\\1 and \\2\\) != None :",
+					"if \\(\\1 and \\2\\) != None",
+					"\\1",
+					"iv"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/omar/AP-CSP"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 798,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										798,
+										798
+									]
+								],
+								"settings":
+								{
+									"WordCount":
+									{
+										"changes": 0,
+										"count": 55,
+										"modified": false,
+										"selection": false,
+										"status": -1,
+										"syntax": "plain text"
+									},
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 161.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.GitSavvy":
+			{
+				"height": 124.0
+			},
+			"output.exec":
+			{
+				"height": 182.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 127.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 162.0
+			},
+			"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+			"position": "0,0,0,0,0,14,185,1378,721,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 73.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"getMarkerDiv"
+					]
+				],
+				"width": 392.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 162.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 73,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/omar/monero-monitor/xmr.sublime-workspace",
+			"/home/omar/Desktop/sublime-session/4.sublime-workspace",
+			"/home/omar/Desktop/sublime-session/3.sublime-workspace",
+			"/home/omar/Desktop/sublime-session/2.sublime-workspace",
+			"/home/omar/arduino/arduino.sublime-workspace",
+			"/home/omar/Desktop/sublime-session/1.sublime-workspace",
+			"/home/omar/machine-learning/tf/untitled.sublime-workspace",
+			"/home/omar/Desktop/ManySavedTabs.sublime-workspace",
+			"/home/omar/arduino/manytabs.sublime-workspace",
+			"/home/omar/Desktop/untftitled.sublime-workspace",
+			"/home/omar/Desktop/untitled.sublime-workspace",
+			"/home/omar/.config/sublime-text-3/Installed Packages/Blue Zen Color Scheme.sublime-workspace"
+		]
+	}
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+    "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<!-- Do not edit manually - generated and managed by xdg-desktop-menu -->
+<Menu>
+    <Name>Applications</Name>
+<Menu>
+    <Name>chrome-apps</Name>
+    <Directory>chrome-apps.directory</Directory>
+    <Include>
+        <Filename>chrome-joodangkbfjnajiiifokapkpmhfnpleo-Default.desktop</Filename>
+        <Filename>chrome-decmldkknaaemlafplkkdmmmelbdnlja-Default.desktop</Filename>
+        <Filename>chrome-gbchcmhmhahfdphkhkmpfmihenigjmpp-Default.desktop</Filename>
+        <Filename>chrome-ighkikkfkalojiibipjigpccggljgdff-Default.desktop</Filename>
+        <Filename>chrome-jcjbnkncddbeomhaacaeokhfnefibpde-Default.desktop</Filename>
+        <Filename>chrome-jfbadlndcminbkfojhlimnkgaackjmdo-Default.desktop</Filename>
+        <Filename>chrome-ekdjofnchpbfmnfbedalmbdlhbabiapi-Default.desktop</Filename>
+        <Filename>chrome-fhbjgbiflinjbdggehcddcbncdddomop-Default.desktop</Filename>
+        <Filename>chrome-hgmloofddffdnphfgcellkdfbfbjeloo-Default.desktop</Filename>
+        <Filename>chrome-gidgenkbbabolejbgbpnhbimgjbffefm-Default.desktop</Filename>
+        <Filename>chrome-gmodihnfibbjdecbanmpmbmeffnmloel-Default.desktop</Filename>
+        <Filename>chrome-blijlgfnjhnhmnaldaiienmjggbjhbaa-Default.desktop</Filename>
+        <Filename>chrome-jjphmlaoffndcnecccgemfdaaoighkel-Default.desktop</Filename>
+        <Filename>vivaldi-lbfehkoinhhcknnbdgnnmjhiladcgbol-Default.desktop</Filename>
+        <Filename>chrome-jcmakhjaenkcjafdffgjaamhpjjancen-Default.desktop</Filename>
+        <Filename>chrome-mjcnijlhddpbdemagnpefmlkjdagkogk-Default.desktop</Filename>
+        <Filename>chrome-ojcflmmmcfpacggndoaaflkmcoblhnbh-Default.desktop</Filename>
+        <Filename>chrome-bgjohebimpjdhhocbknplfelpmdhifhd-Default.desktop</Filename>
+        <Filename>chrome-koegeopamaoljbmhnfjbclbocehhgmkm-Default.desktop</Filename>
+        <Filename>chrome-bhmicilclplefnflapjmnngmkkkkpfad-Default.desktop</Filename>
+        <Filename>chrome-pmjcikddgkgmcnpdoebdenbheiabgapi-Default.desktop</Filename>
+        <Filename>chrome-pojdhoepdjhkbffnofompogpbpmcbpkm-Default.desktop</Filename>
+        <Filename>chrome-defagiknfbdkcmhacemhefjabocpmamg-Default.desktop</Filename>
+        <Filename>chrome-kidnkfckhbdkfgbicccmdggmpgogehop-Default.desktop</Filename>
+        <Filename>chrome-gkcknpgdmiigoagkcoglklgaagnpojed-Default.desktop</Filename>
+        <Filename>chrome-ahjnfakocpfoocnncbgmondnnnlfjide-Default.desktop</Filename>
+        <Filename>chrome-mncpghpmkopgmjlgjcmokgmhkflifgph-Default.desktop</Filename>
+        <Filename>chrome-ciniambnphakdoflgeamacamhfllbkmo-Default.desktop</Filename>
+    </Include>
+</Menu>
+</Menu>

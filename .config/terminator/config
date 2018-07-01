@@ -1,0 +1,21 @@
+[global_config]
+  title_transmit_bg_color = "#dca3a3"
+  title_transmit_fg_color = "#2e3436"
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#fbf1c7"
+    cursor_color = "#aaaaaa"
+    font = Noto Mono 14
+    foreground_color = "#3c3836"
+    split_to_group = True
+    use_system_font = False

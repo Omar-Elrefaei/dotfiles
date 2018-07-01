@@ -1,0 +1,32 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Downloads/,$HOME/Python/
+
+[Extraction]
+closeAfterExtraction=true
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/Python/,file:$HOME/Downloads/
+
+[MainWindow]
+Height 768=711
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVIAAAKiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Width 1366=1362
+splitterSizes=1099,259
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/soft.deb
+File2[$e]=/usr/local/lib/libpython3.6m.a
+File3[$e]=$HOME/.config/sublime-text-3/Installed Packages/Terminality.sublime-package
+File4[$e]=$HOME/scripts-bin/paperspace@74.82.31.169
+File5[$e]=$HOME/Downloads/upterm-0.4.0-x86_64-linux.AppImage
+File6[$e]=$HOME/Downloads/VNote-1.15-x86_64.AppImage
+Name1[$e]=soft.deb
+Name2[$e]=libpython3.6m.a
+Name3[$e]=Terminality.sublime-package
+Name4[$e]=paperspace@74.82.31.169
+Name5[$e]=upterm-0.4.0-x86_64-linux.AppImage
+Name6[$e]=VNote-1.15-x86_64.AppImage

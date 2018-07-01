@@ -1,0 +1,6 @@
+2017/12/13-01:54:48.023 12994 Reusing MANIFEST /home/omar/.config/qupzilla/profiles/default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2017/12/13-01:54:48.024 12994 Recovering log #3
+2017/12/13-01:54:48.158 12994 Reusing old log /home/omar/.config/qupzilla/profiles/default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000003.log 
+2017/12/13-01:55:04.464 752 Level-0 table #5: started
+2017/12/13-01:55:04.762 752 Level-0 table #5: 4779427 bytes OK
+2017/12/13-01:55:04.859 752 Delete type=0 #3

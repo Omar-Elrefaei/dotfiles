@@ -1,0 +1,5 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-61-98ff4bf3-8942-4179-883f-96c0261bafb7]
+ordering=preferred://browser,systemsettings.desktop,org.kde.dolphin.desktop,org.kde.kate.desktop,firefox-nightly.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-61-global]
+ordering=preferred://browser,systemsettings.desktop,org.kde.dolphin.desktop,org.kde.kate.desktop,firefox-nightly.desktop

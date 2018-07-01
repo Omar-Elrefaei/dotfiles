@@ -1,0 +1,42 @@
+[Containments][2][General]
+AppletOrder=3;4;22;25;26;27;28;24;29
+
+[Containments][31][General]
+AppletOrder=32;51
+
+[Containments][36][General]
+extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.ktp-contactlist,org.kde.plasma.volume,org.kde.plasma.battery,org.kde.plasma.notifications,org.kde.plasma.mediacontroller,org.kde.kdeconnect,org.kde.plasma.networkmanagement,org.kde.plasma.printmanager
+knownItems=org.kde.plasma.devicenotifier,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.ktp-contactlist,org.kde.plasma.volume,org.kde.plasma.battery,org.kde.plasma.notifications,org.kde.plasma.mediacontroller,org.kde.kdeconnect,org.kde.plasma.networkmanagement,org.kde.plasma.printmanager
+
+[KPropertiesDialog]
+Height 768=456
+Width 1366=418
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_org.kde.konsole.desktop,1 baloosearch_/home/omar/AndroidStudioProjects/Nurania/app/build/intermediates/transforms/dex/debug/folders,1 shell_su,1 services_ubuntu-amazon-default.desktop,2 services_systemsettings.desktop,1 services_sublime.desktop,3 recentdocuments_file:/home/omar/AndroidStudioProjects/Nurania/app/build/intermediates/transforms/dex/debug/folders,3 shell_terminal,1 services_sublime-text.desktop,2 services_jetbrains-idea-ce.desktop,6 services_logout.desktop,1 services_gnome-system-monitor-kde.desktop,1 services_Thunar.desktop
+pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 2]
+alignment=132
+panelVisibility=1
+
+[PlasmaViews][Panel 2][Horizontal1366]
+thickness=40
+
+[PlasmaViews][Panel 31]
+alignment=132
+
+[PlasmaViews][Panel 31][Horizontal1366]
+maxLength=1366
+minLength=200
+offset=0
+thickness=86
+
+[ScreenConnectors]
+0=eDP
+1=HDMI-0
+2=VGA-0
+3=:0.0
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

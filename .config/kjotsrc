@@ -1,0 +1,17 @@
+[General]
+AutoCreateResourceOnStart=true
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGkAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAFgB0AGUAeAB0AFQAbwBvAGwAQgBhAHIBAAABE/////8AAAAAAAAAAAAAABoAZgBvAHIAbQBhAHQAVABvAG8AbABCAGEAcgEAAAJO/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[TreeState]
+Current=x-1
+Expansion=
+HorizontalScroll=0
+Selection=
+VerticalScroll=0
+
+[kjots]
+SplitterSizes=317,317

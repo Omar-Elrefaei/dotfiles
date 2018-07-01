@@ -1,0 +1,6 @@
+[Applets][3]
+immutability=1
+plugin=org.kde.kdeconnect
+
+[Applets][3][Configuration]
+geometry=424,72,550,664

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Compiz
+Exec=compiz --sm-client-id 102be15fe0773b892b152802979065746700000289870125
+NoDisplay=true
+# name of loadable control center module
+X-GNOME-WMSettingsModule=compiz
+# autostart phase
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+# name we put on the WM spec check window
+X-GNOME-WMName=compiz
+# back compat only 
+X-GnomeWMSettingsLibrary=compiz
+X-Ubuntu-Gettext-Domain=compiz
+X-MATE-Autostart-startup-id=102be15fe0773b892b152802979065746700000289870125

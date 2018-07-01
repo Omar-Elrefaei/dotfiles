@@ -1,0 +1,63 @@
+2017-06-13T12:54:16.359Z - info: [ui] Opt in reported.
+2017-06-13T12:54:18.658Z - info: [ui] Stats reported.
+2017-06-13T13:07:58.429Z - error: [ui] Unable to deserialize JSON string to object {"message":"Repository creation failed.","errors":[{"resource":"Repository","code":"custom","field":"name","message":"name already exists on this account"}],"documentation_url":"https://developer.github.com/v3/repos/#create"} POST https://api.github.com/user/repos Status: 422
+SyntaxError: Unexpected token P in JSON at position 226
+    at JSON.parse (<anonymous>)
+    at Object.<anonymous> (/home/omar/webpack:/app/src/lib/http.ts:18:36)
+    at Generator.next (<anonymous>)
+    at /home/omar/webpack:/app/src/lib/http.ts:63:2
+    at U (/home/omar/webpack:/app/src/lib/http.ts:63:2)
+    at Object.I.deserialize (/home/omar/webpack:/app/src/lib/http.ts:12:65)
+    at I.API.<anonymous> (/home/omar/webpack:/app/src/lib/api.ts:331:40)
+    at Generator.throw (<anonymous>)
+    at De (/home/omar/webpack:/app/src/lib/api.ts:654:2)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+2017-06-13T13:07:58.435Z - error: [ui] createRepository return an unknown error
+Error: {"message":"Repository creation failed.","errors":[{"resource":"Repository","code":"custom","field":"name","message":"name already exists on this account"}],"documentation_url":"https://developer.github.com/v3/repos/#create"} POST https://api.github.com/user/repos Status: 422
+    at /home/omar/webpack:/app/~/octokat/dist/node/requester.js:222:1
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+2017-06-13T13:11:46.424Z - error: [ui] `git -c credential.helper= push origin Part-C --set-upstream --progress` exited with an unexpected code: 128.
+fatal: Unable to find remote helper for 'https'
+
+2017-06-13T13:11:47.550Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+fatal: Unable to find remote helper for 'https'
+
+2017-06-13T13:11:52.255Z - error: [ui] `git -c credential.helper= push origin Part-C --set-upstream --progress` exited with an unexpected code: 128.
+fatal: Unable to find remote helper for 'https'
+
+2017-06-13T13:11:56.748Z - error: [ui] `git -c credential.helper= push origin Part-C --set-upstream --progress` exited with an unexpected code: 128.
+fatal: Unable to find remote helper for 'https'
+
+2017-06-13T13:12:08.022Z - error: [ui] `git -c credential.helper= push origin master --set-upstream --progress` exited with an unexpected code: 128.
+fatal: Unable to find remote helper for 'https'
+
+2017-06-13T13:12:18.745Z - error: [ui] `git -c credential.helper= push origin master --set-upstream --progress` exited with an unexpected code: 128.
+fatal: Unable to find remote helper for 'https'
+
+2017-06-13T13:17:24.463Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+fatal: Unable to find remote helper for 'https'
+
+2017-06-13T13:17:25.470Z - error: [ui] `git -c credential.helper= push origin master --set-upstream --progress` exited with an unexpected code: 128.
+fatal: Unable to find remote helper for 'https'
+
+2017-06-13T13:19:28.948Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+fatal: Unable to find remote helper for 'https'
+
+2017-06-13T13:24:56.936Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+fatal: Unable to find remote helper for 'https'
+
+2017-06-13T13:29:22.861Z - error: [ui] `git -c credential.helper= push origin Part-C --set-upstream --progress` exited with an unexpected code: 128.
+fatal: Unable to find remote helper for 'https'
+
+2017-06-13T13:30:25.296Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+fatal: Unable to find remote helper for 'https'
+
+2017-06-13T13:35:53.645Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+fatal: Unable to find remote helper for 'https'
+
+2017-06-13T13:41:22.022Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+fatal: Unable to find remote helper for 'https'
+
+2017-06-13T13:46:50.479Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+fatal: Unable to find remote helper for 'https'
+

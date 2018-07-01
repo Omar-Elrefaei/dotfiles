@@ -1,0 +1,2 @@
+[General]
+commands="@ByteArray({\n    \"{6752b837-9881-42b6-b04c-f1dac38010d4}\": {\n        \"command\": \"echo omar > ~/kdeee\",\n        \"name\": \"echo\"\n    }\n}\n)"

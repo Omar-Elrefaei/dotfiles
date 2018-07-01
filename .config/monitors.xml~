@@ -1,0 +1,23 @@
+<monitors version="2">
+  <configuration>
+    <migrated/>
+    <logicalmonitor>
+      <x>0</x>
+      <y>0</y>
+      <primary>yes</primary>
+      <monitor>
+        <monitorspec>
+          <connector>eDP</connector>
+          <vendor>SDC</vendor>
+          <product>0x4852</product>
+          <serial>0x00000000</serial>
+        </monitorspec>
+        <mode>
+          <width>1366</width>
+          <height>768</height>
+          <rate>60</rate>
+        </mode>
+      </monitor>
+    </logicalmonitor>
+  </configuration>
+</monitors>

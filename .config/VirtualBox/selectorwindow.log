@@ -1,0 +1,18 @@
+VirtualBox GUI VM Selector Window 5.1.22 r115126 linux.amd64 (Apr 28 2017 16:15:09) release log
+00:00:01.031943 Log opened 2017-12-09T15:38:11.862106000Z
+00:00:01.031947 Build Type: release
+00:00:01.031955 OS Product: Linux
+00:00:01.031957 OS Release: 4.13.0-17-generic
+00:00:01.031960 OS Version: #20-Ubuntu SMP Mon Nov 6 10:04:08 UTC 2017
+00:00:01.032026 DMI Product Name: 80E3
+00:00:01.032046 DMI Product Version: Lenovo G50-45
+00:00:01.032171 Host RAM: 3404MB (3.3GB) total, 1837MB available
+00:00:01.032179 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:01.032180 Process ID: 26548
+00:00:01.032181 Package type: LINUX_64BITS_UBUNTU_17_04
+00:00:01.032261 Qt version: 5.9.1
+00:00:01.134311 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.542856 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.611686 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x24 x 1366x744
+00:00:51.538133 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={7844aa05-b02e-4cdd-a04f-ade4a762e6b7} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:00:59.216650 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={7844aa05-b02e-4cdd-a04f-ade4a762e6b7} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0

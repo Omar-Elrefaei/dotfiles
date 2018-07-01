@@ -1,0 +1,10 @@
+{
+    //"shell_cmd": "python3.5 -u \"$file\" /home/omar/machine-learning/tf-files/cat.jpg",
+    "shell_cmd": "/usr/bin/python3 \"$file\" -a 9.8 -iv 0 -x 10",
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python.3",
+    "windows":
+    {
+        "shell_cmd": "pytho -u \"$file\""
+    }
+}

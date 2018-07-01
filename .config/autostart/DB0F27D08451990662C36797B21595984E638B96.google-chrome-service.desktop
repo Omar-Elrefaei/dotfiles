@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Exec=/opt/google/chrome/chrome --type=service
+Name=Google Chrome Service

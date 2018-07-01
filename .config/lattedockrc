@@ -1,0 +1,51 @@
+[Action_0]
+Automatic=true
+Description=Edit
+Number of commands=1
+Regexp=.*
+
+[Action_0/Command_0]
+Commandline[$e]=echo %s | kate -i
+Description=Command Description
+Enabled=true
+Icon=
+Output=0
+
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdAAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAAA1gAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+Height 768=545
+Width 1366=612
+
+[EditActionDialog]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUkAAAADAAEAAQAAAAAAAAAAAAAAAGT/////AAAAAQAAAAAAAAADAAAAZAAAAAEAAAAAAAAAgQAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAABk
+Height 768=472
+Width 1366=368
+
+[General]
+Number of Actions=1
+
+[PlasmaRunnerManager]
+LaunchCounts=3 services_geany.desktop,1 services_mc.desktop,1 services_icons.desktop,1 services_libreoffice-base.desktop,2 services_zeal.desktop,1 services_com.teamviewer.TeamViewer.desktop,1 services_brasero --video,1 services_kcm_splashscreen.desktop,2 services_kcm_phonon.desktop,1 services_xfce4-taskmanager.desktop
+pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[ScreenConnectors]
+10=eDP
+11=HDMI-0
+12=VGA-0
+13=default
+
+[UniversalSettings]
+canDisableBorders=false
+currentLayout=My Layout
+downloadWindowSize=800,550
+lastNonAssignedLayout=My Layout
+launchers=
+layoutsColumnWidths=85,76,59,0
+layoutsWindowSize=700,461
+memoryUsage=0
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+version=2

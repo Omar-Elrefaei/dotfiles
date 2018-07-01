@@ -1,0 +1,10 @@
+[KFileDialog Settings]
+Recent Files[$e]=tux4ubuntu_antique_i5n6whtvq4c-ryan-hafey.jpg,file:$HOME/Pictures/Tux4Ubuntu Wallpapers/tux4ubuntu_antique_i5n6whtvq4c-ryan-hafey.jpg
+Recent URLs[$e]=file:$HOME/Pictures/Tux4Ubuntu Wallpapers/,file:$HOME/Pictures/
+
+[Open-with settings]
+CompletionMode=5
+History=qupzilla,~/Downloads/firefox/./firefox,env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/brave_brave.desktop /snap/bin/brave %U,firefox %u,firefox,qupzilla %u,/usr/bin/vivaldi-snapshot %U,chrome-gnome-shell
+
+[PlasmaRunnerManager]
+LaunchCounts=

@@ -1,0 +1,375 @@
+{
+    "roots": {
+        "bookmark_bar": {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Asic resistant coins : CryptoCurrency",
+                                    "type": "url",
+                                    "url": "https://www.reddit.com/r/CryptoCurrency/comments/79uo9l/asic_resistant_coins/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Talked with a guy in finance... said Bitcoin was an “asset” not a “currency”. Mostly because it’s not USED as a currency. It’s used like people use gold... Hold it. Why is BTC not a currency? : CryptoCurrency",
+                                    "type": "url",
+                                    "url": "https://www.reddit.com/r/CryptoCurrency/comments/78y8ta/talked_with_a_guy_in_finance_said_bitcoin_was_an/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Mining crypto with low-end computer. : CryptoCurrency",
+                                    "type": "url",
+                                    "url": "https://www.reddit.com/r/CryptoCurrency/comments/6ddwze/mining_crypto_with_lowend_computer/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "MinerGate GUI miner 7.0 release",
+                                    "type": "url",
+                                    "url": "https://minergate.com/blog/minergate-gui-miner-v-7-0-a-new-generation-of-intelligent-mining/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "5 strategies to profit from crypto if you do not have high-end hardware - Official MinerGate Blog",
+                                    "type": "url",
+                                    "url": "https://minergate.com/blog/5-strategies-to-profit-from-crypto-if-you-do-not-have-high-end-hardware/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "What's The Best Time To Invest In Cryptocurrency?",
+                                    "type": "url",
+                                    "url": "https://minergate.com/blog/whats-the-best-time-to-invest-in-crypto/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Monero Trading for Beginners - MinerGate Official Blog",
+                                    "type": "url",
+                                    "url": "https://minergate.com/blog/monero-trading-for-beginners/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Gridcoin - Rewarding Scientific Distributed Computing",
+                                    "type": "url",
+                                    "url": "http://www.gridcoin.us/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Bitcoin Hits New All-Time High as CME Group Announces Futures Trading",
+                                    "type": "url",
+                                    "url": "https://cointelegraph.com/news/bitcoin-hits-new-all-time-high-as-cme-group-announces-futures-trading",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "A Noobs guide to: ETC vs ETH : ethereum",
+                                    "type": "url",
+                                    "url": "https://www.reddit.com/r/ethereum/comments/6dpgev/a_noobs_guide_to_etc_vs_eth/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "My dad doesn't quite it : ethereum",
+                                    "type": "url",
+                                    "url": "https://www.reddit.com/r/ethereum/comments/70rul2/my_dad_doesnt_quite_it/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "State of the ÐApps - Find Ether",
+                                    "type": "url",
+                                    "url": "https://www.stateofthedapps.com/dapps/find-ether",
+                                    "visit_count": 0
+                                }
+                            ],
+                            "description": "",
+                            "expanded": false,
+                            "expanded_sidebar": false,
+                            "name": "Crypto",
+                            "type": "folder"
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "documentation - Search python docs offline? - Stack Overflow",
+                            "type": "url",
+                            "url": "https://stackoverflow.com/questions/19441031/search-python-docs-offline",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "encryption - How do mobile carriers know video resolution over HTTPS connections? - Information Security Stack Exchange",
+                            "type": "url",
+                            "url": "https://security.stackexchange.com/questions/172212/how-do-mobile-carriers-know-video-resolution-over-https-connections",
+                            "visit_count": 0
+                        }
+                    ],
+                    "description": "",
+                    "expanded": true,
+                    "expanded_sidebar": false,
+                    "name": "stack exchange",
+                    "type": "folder"
+                },
+                {
+                    "children": [
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "Desktop Neo – rethinking the desktop interface for productivity.",
+                            "type": "url",
+                            "url": "http://www.desktopneo.com/",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "GitHub - dmonay/okra: Okra API",
+                            "type": "url",
+                            "url": "https://github.com/dmonay/okra",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "idealos/proto1 at master · joshmarinacci/idealos · GitHub",
+                            "type": "url",
+                            "url": "https://github.com/joshmarinacci/idealos/tree/master/proto1",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "Blog with development updates",
+                            "keyword": "qz-blog",
+                            "name": "QupZilla Blog",
+                            "type": "url",
+                            "url": "http://blog.qupzilla.com/",
+                            "visit_count": 0
+                        }
+                    ],
+                    "description": "",
+                    "expanded": false,
+                    "expanded_sidebar": false,
+                    "name": "IdealOS",
+                    "type": "folder"
+                },
+                {
+                    "description": "Source code of QupZilla",
+                    "keyword": "qz-git",
+                    "name": "QupZilla Git",
+                    "type": "url",
+                    "url": "https://github.com/QupZilla/qupzilla",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "qz-wiki",
+                    "name": "QupZilla Wiki",
+                    "type": "url",
+                    "url": "https://github.com/QupZilla/qupzilla/wiki",
+                    "visit_count": 0
+                },
+                {
+                    "description": "GitHub Issue Tracker for QupZilla",
+                    "keyword": "qz-issues",
+                    "name": "QupZilla Issues",
+                    "type": "url",
+                    "url": "https://github.com/QupZilla/qupzilla/issues",
+                    "visit_count": 0
+                },
+                {
+                    "type": "separator"
+                },
+                {
+                    "description": "QupZilla Homepage",
+                    "keyword": "qz-home",
+                    "name": "QupZilla Home",
+                    "type": "url",
+                    "url": "http://www.qupzilla.com/",
+                    "visit_count": 0
+                }
+            ],
+            "description": "Bookmarks located in Bookmarks Toolbar",
+            "expanded": true,
+            "expanded_sidebar": true,
+            "name": "Bookmarks Toolbar",
+            "type": "folder"
+        },
+        "bookmark_menu": {
+            "children": [
+            ],
+            "description": "Bookmarks located in Bookmarks Menu",
+            "expanded": true,
+            "expanded_sidebar": true,
+            "name": "Bookmarks Menu",
+            "type": "folder"
+        },
+        "other": {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "In Unix, what is the find command, and how do I use it to search through directories for files?",
+                            "type": "url",
+                            "url": "https://kb.iu.edu/d/admm",
+                            "visit_count": 0
+                        }
+                    ],
+                    "description": "",
+                    "expanded": false,
+                    "expanded_sidebar": false,
+                    "name": "sd",
+                    "type": "folder"
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "How to completly remove add-on preferences? | Firefox Support Forum | Mozilla Support",
+                    "type": "url",
+                    "url": "https://support.mozilla.org/en-US/questions/1032046",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Add-ons file location | Firefox Support Forum | Mozilla Support",
+                    "type": "url",
+                    "url": "https://support.mozilla.org/en-US/questions/1159626",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Using Firefox for scraping — Scrapy 1.4.0 documentation",
+                    "type": "url",
+                    "url": "https://doc.scrapy.org/en/latest/topics/firefox.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Offline documentation for Python, NumPy and SciPy | Windel's Python weblog",
+                    "type": "url",
+                    "url": "https://windelbouwman.wordpress.com/2014/06/12/offline-documentation-for-python-numpy-and-scipy/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "How to get a cube root in Python - Stack Overflow",
+                    "type": "url",
+                    "url": "https://stackoverflow.com/questions/39155608/how-to-get-a-cube-root-in-python",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "python 3.x - Zlib and binascii don't build with Python3.6 - Stack Overflow",
+                    "type": "url",
+                    "url": "https://stackoverflow.com/questions/44918913/zlib-and-binascii-dont-build-with-python3-6",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "python - no module named zlib - Stack Overflow",
+                    "type": "url",
+                    "url": "https://stackoverflow.com/questions/6169522/no-module-named-zlib",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "python - cubic and quadratic graphs? - Stack Overflow",
+                    "type": "url",
+                    "url": "https://stackoverflow.com/questions/20382743/cubic-and-quadratic-graphs",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "python - graphing an equation with matplotlib - Stack Overflow",
+                    "type": "url",
+                    "url": "https://stackoverflow.com/questions/14000595/graphing-an-equation-with-matplotlib#14000631",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Installing the SciPy Stack — SciPy.org",
+                    "type": "url",
+                    "url": "https://www.scipy.org/install.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Browse : Python Package Index",
+                    "type": "url",
+                    "url": "https://pypi.python.org/pypi?:action=browse&c=533",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "pynverse 0.1.4.4 : Python Package Index",
+                    "type": "url",
+                    "url": "https://pypi.python.org/pypi/pynverse",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "scipy.optimize at DuckDuckGo",
+                    "type": "url",
+                    "url": "https://duckduckgo.com/?q=scipy.optimize&t=qupzilla&ia=web",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "python3 - Cannot import Zlib in Python 3.5 on Wily - Ask Ubuntu",
+                    "type": "url",
+                    "url": "https://askubuntu.com/questions/687904/cannot-import-zlib-in-python-3-5-on-wily",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "16.04 - Zlib import error on python 3.5 - Ask Ubuntu",
+                    "type": "url",
+                    "url": "https://askubuntu.com/questions/957839/zlib-import-error-on-python-3-5",
+                    "visit_count": 0
+                }
+            ],
+            "description": "All other bookmarks",
+            "expanded": true,
+            "expanded_sidebar": true,
+            "name": "Unsorted Bookmarks",
+            "type": "folder"
+        }
+    },
+    "version": 1
+}

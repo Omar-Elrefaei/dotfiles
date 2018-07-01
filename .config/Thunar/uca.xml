@@ -1,0 +1,33 @@
+<?xml encoding="UTF-8" version="1.0"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Open in terminal</name>
+	<unique-id>1498138246600678-2</unique-id>
+	<command>gnome-terminal</command>
+	<description></description>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+<action>
+	<icon>gksu-root-terminal</icon>
+	<name>Open in SUDO terminal</name>
+	<unique-id>1498138305791679-4</unique-id>
+	<command>sudo gnome-terminal</command>
+	<description></description>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+</actions>

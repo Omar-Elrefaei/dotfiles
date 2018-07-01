@@ -1,0 +1,17 @@
+[MainWindow]
+Height 768=460
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=902
+Window-Maximized 768x1366=true
+
+[SideBar-BrowseMode]
+IsVisible=true
+
+[SideBar-ViewMode]
+IsVisible=true
+
+[UrlForBaseUrl]
+0key=file:///media/root/HELLO/
+0value=file:///media/root/HELLO

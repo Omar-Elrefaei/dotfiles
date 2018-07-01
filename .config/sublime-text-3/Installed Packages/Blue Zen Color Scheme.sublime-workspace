@@ -1,0 +1,366 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"pass\tkeyword"
+			],
+			[
+				"pri",
+				"print\tkeyword"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "operator\no\no\noperator\noperator\noperator\n",
+			"settings":
+			{
+				"buffer_size": 40,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 112.0,
+		"last_filter": "vib",
+		"selected_items":
+		[
+			[
+				"vib",
+				"View In Browser"
+			],
+			[
+				"pain",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"parin",
+				"Package Control: Install Package"
+			],
+			[
+				"pare",
+				"Package Control: Remove Package"
+			],
+			[
+				"termin",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"setting",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"user",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"py",
+				"Set Syntax: Python3"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"blue",
+				"Build: Cancel"
+			],
+			[
+				"Package Control: bl",
+				"Package Control: Enable Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pth",
+				"Build With: Python"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"o"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/omar/.config/sublime-text-3/Packages/User/Terminality.sublime-keymap",
+		"/home/omar/.config/sublime-text-3/Packages/Terminality/Default.sublime-keymap",
+		"/home/omar/.config/sublime-text-3/Packages/User/Terminality.sublime-settings",
+		"/home/omar/.config/sublime-text-3/Packages/Terminality/Terminality.sublime-settings",
+		"/home/omar/.config/sublime-text-3/Installed Packages/Blue Zen Color Scheme.sublime-project",
+		"/home/omar/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/omar/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/omar/finished-projects/DynamicSheets/methods/Add.java",
+		"/home/omar/Desktop/quaraex/a.cpp",
+		"/home/omar/Desktop/quaraex/manifest.json",
+		"/home/omar/finished-projects/DynamicSheets/DynamicSheet.java",
+		"/home/omar/Desktop/quaraex/q.js",
+		"/home/omar/finished-projects/DynamicSheets/methods/Modify.java",
+		"/home/omar/finished-projects/DynamicSheets/nano.save",
+		"/home/omar/finished-projects/DynamicSheets/nano.save.1",
+		"/home/omar/finished-projects/DynamicSheets/.git/index",
+		"/home/omar/Desktop/Untiteled 2.html",
+		"/home/omar/python-getting-started/hello/views.py",
+		"/home/omar/python-getting-started/README.md",
+		"/home/omar/python-getting-started/manage.py",
+		"/home/omar/python-getting-started/requirements.txt",
+		"/home/omar/Desktop/Battery.html",
+		"/home/omar/PycharmProjects/PetProjects/myTwitter.py",
+		"/home/omar/rust/README.md",
+		"/home/omar/Desktop/Notepad Plus Plus.desktop",
+		"/usr/local/lib/rustlib/install.log",
+		"/home/omar/PycharmProjects/PetProjects/test.Json",
+		"/home/omar/python-getting-started/runtime.txt",
+		"/home/omar/python-getting-started/Procfile",
+		"/home/omar/python-getting-started/app.json",
+		"/var/log/apache2/access.log",
+		"/etc/apache2/ports.conf",
+		"/var/www/html/index.php",
+		"/var/www/html/o.py",
+		"/var/log/apache2/error.log",
+		"/var/www/html/t.php",
+		"/usr/share/applications/gnome-sudoku.desktop",
+		"/usr/share/applications/org.kde.kaddressbook.desktop",
+		"/usr/share/applications/org.kde.k3b.desktop",
+		"/usr/share/applications/im-config.desktop",
+		"/usr/share/applications/org.kde.kinfocenter.desktop",
+		"/usr/share/applications/gthumb-import.desktop",
+		"/usr/share/applications/nautilus-home.desktop",
+		"/usr/share/applications/eog.desktop",
+		"/usr/share/applications/org.kde.ktpcontactlist.desktop",
+		"/usr/share/applications/ibus-setup-table.desktop",
+		"/usr/share/applications/display-im6.q16.desktop",
+		"/usr/share/applications/ibus-setup.desktop",
+		"/usr/share/applications/history-daemon.desktop",
+		"/usr/share/applications/yelp.desktop",
+		"/usr/share/applications/org.kde.Help.desktop",
+		"/usr/share/applications/gthumb.desktop",
+		"/usr/share/applications/org.kde.gwenview.desktop",
+		"/usr/share/applications/gsmartcontrol.desktop",
+		"/usr/share/applications/gparted.desktop",
+		"/usr/share/applications/firefox.desktop",
+		"/usr/share/applications/gnome-system-monitor-kde.desktop",
+		"/usr/share/applications/unity-scope-gdrive.desktop",
+		"/home/omar/python/bv.py",
+		"/usr/share/applications/org.kde.kcalc.desktop",
+		"/usr/share/applications/kaddressbook-importer.desktop",
+		"/usr/share/applications/org.kde.kate.desktop",
+		"/usr/share/applications/org.kde.kcolorschemeeditor.desktop",
+		"/usr/share/applications/kde5-nm-connection-editor.desktop",
+		"/usr/share/applications/org.kde.kdeconnect.kcm.desktop",
+		"/usr/share/applications/org.kde.kdeconnect.nonplasma.desktop",
+		"/usr/share/applications/org.kde.ktplogviewer.desktop",
+		"/usr/share/applications/org.kde.PartitionManager.desktop",
+		"/home/omar/.config/sublime-text-3/Packages/User/untitled.sublime-snippet",
+		"/home/omar/xml.xml",
+		"/home/omar/awk_script.sh",
+		"/home/omar/awk_out",
+		"/home/omar/create.awk",
+		"/media/omar/New Volume/Java-SourceCode/Java/src/tvPrograms.java"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"auto_com",
+			"commit",
+			"ServerName",
+			"DefaultRuntimeDir",
+			"/var/www/html",
+			"openpyxl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"gawk -f create.awk\nsleep 0.5\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python 3/Python3.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Blue Zen Color Scheme.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"getMarkerDiv"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

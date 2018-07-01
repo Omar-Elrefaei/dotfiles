@@ -1,0 +1,13 @@
+[Layout]
+DisplayNames=,ar
+LayoutList=us,ara
+LayoutLoopCount=-1
+Model=pc101
+Options=altwin:menu,grp:alt_shift_toggle,caps:hyper,grp_led:caps,grp_led:num
+ResetOldOptions=true
+ShowFlag=false
+ShowLabel=true
+ShowLayoutIndicator=true
+ShowSingle=false
+SwitchMode=Desktop
+Use=true

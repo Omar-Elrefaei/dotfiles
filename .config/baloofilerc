@@ -1,0 +1,11 @@
+[Basic Settings]
+Indexing-Enabled=false
+
+[General]
+dbVersion=2
+exclude filters=po,*.rcore,ui_*.h,__pycache__,*.vm*,CMakeCache.txt,*.orig,*.part,litmain.sh,*.o,.git,*.rej,moc_*.cpp,*.m4,*.pc,.hg,autom4te,*.class,CTestTestfile.cmake,.xsession-errors*,lost+found,qrc_*.cpp,conftest,*.swap,CVS,*.moc,*.loT,core-dumps,*~,confdefs.h,*.la,*.gmo,*.aux,libtool,CMakeTmp,CMakeTmpQmake,confstat,*.po,.moc,.bzr,*.nvram,.pch,.histfile.*,config.status,*.lo,*.omf,*.elc,*.csproj,*.tmp,.svn,CMakeFiles,.uic,*.pyc,cmake_install.cmake,lzo,.obj,Makefile.am,_darcs
+exclude filters version=2
+exclude folders[$e]=/snap/simplenote/32/,/snap/tpad/19/,/snap/gnome-3-26-1604/53/,/snap/wavebox/75/,/snap/termplay/1/,/snap/gnome-3-26-1604/31/,/snap/peek/711/,/snap/anbox/46/,/snap/brave/15/,/snap/bucklespring/31/,/snap/brave/17/,/snap/hangups/5/,/snap/simplenote/27/,/snap/writefull/5/,/snap/brave/16/,/snap/core/4206/,/snap/peek/619/,/snap/wavebox/62/,/snap/simplenote/33/,/snap/core/4110/,/snap/core/4017/,/snap/wavebox/76/,/snap/wormhole/23/,/snap/hangups/28/,/snap/bucklespring/23/,/snap/gnome-3-26-1604/27/,/snap/anbox-installer/17/
+first run=true
+folders[$e]=$HOME/
+only basic indexing=true

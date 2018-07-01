@@ -1,0 +1,122 @@
+[1]
+Active ViewSpace=0
+Kate-MDI-H-Splitter=200,626,200
+Kate-MDI-Sidebar-0-Splitter=0
+Kate-MDI-Sidebar-1-Splitter=
+Kate-MDI-Sidebar-2-Splitter=
+Kate-MDI-Sidebar-3-Splitter=0
+Kate-MDI-Sidebar-Style=2
+Kate-MDI-Sidebar-Visible=true
+Kate-MDI-ToolView-kate_plugin_katesearch-Persistent=false
+Kate-MDI-ToolView-kate_plugin_katesearch-Position=3
+Kate-MDI-ToolView-kate_plugin_katesearch-Sidebar-Position=0
+Kate-MDI-ToolView-kate_plugin_katesearch-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Sidebar-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Visible=false
+Kate-MDI-V-Splitter=150,693,200
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAosAAALMAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+Window-Maximized 768x1366=true
+
+[1-Splitter 0]
+Children=1-ViewSpace 0
+Orientation=1
+Sizes=626
+
+[1-ViewSpace 0]
+Active View=file:///usr/sbin/apache2
+Count=1
+Documents=file:///usr/sbin/apache2
+View 0=file:///usr/sbin/apache2
+
+[1-ViewSpace 0 file:///usr/sbin/apache2]
+CursorColumn=564
+CursorLine=1
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[Document 0]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+URL=file:///usr/sbin/apache2
+
+[General]
+Last Session=
+
+[Kate Plugins]
+katebacktracebrowserplugin=false
+katebuildplugin=false
+katecloseexceptplugin=false
+katectagsplugin=false
+katefilebrowserplugin=false
+katefiletreeplugin=true
+kategdbplugin=false
+katekonsoleplugin=false
+kateopenheaderplugin=false
+kateprojectplugin=true
+katereplicodeplugin=false
+katesearchplugin=true
+katesnippetsplugin=false
+katesqlplugin=false
+katesymbolviewerplugin=false
+katexmlcheckplugin=false
+katexmltoolsplugin=false
+kterustcompletionplugin=false
+ktexteditor_lumen=false
+tabswitcherplugin=true
+textfilterplugin=false
+
+[Number]
+NumberOfWindows=1
+
+[Open Documents]
+Count=1
+
+[Plugin:katesearchplugin:MainWindow:0]
+BinaryFiles=false
+CurrentExcludeFilter=-1
+CurrentFilter=-1
+ExcludeFilters=
+ExpandSearchResults=false
+Filters=
+FollowSymLink=false
+HiddenFiles=false
+MatchCase=false
+Place=1
+Recursive=true
+Replaces=
+Search=
+SearchDiskFiles=
+SearchDiskFiless=
+UseRegExp=false
+
+[Recent Files]
+File1[$e]=/usr/share/pkg-config-dpkghook
+File2[$e]=$HOME/Python/Python-3.6.1/python
+File3[$e]=/usr/bin/python2.7
+File4[$e]=$HOME/.local/share/umake/ide/sublime-text/sublime_text
+File5[$e]=/usr/share/applications/sublime.desktop
+File6[$e]=$HOME/visual-studio-code/code
+File7[$e]=/usr/sbin/apache2
+Name1[$e]=pkg-config-dpkghook
+Name2[$e]=python
+Name3[$e]=python2.7
+Name4[$e]=sublime_text
+Name5[$e]=sublime.desktop
+Name6[$e]=code
+Name7[$e]=apache2
+
+[WindowProperties1]
+ClassName=KateMainWindow
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAAosAAALMAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+Window-Maximized 768x1366=true

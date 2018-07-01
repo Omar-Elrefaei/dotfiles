@@ -1,0 +1,14 @@
+[parameters]
+CircScrollDelta=5.73
+FingerHigh=2
+HorizScrollDelta=2.1
+LTCornerButton=LeftButton
+MaxTapMove=3.0999999999999996
+PalmDetect=true
+PalmMinWidth=14
+PalmMinZ=203
+RBCornerButton=NoButton
+RTCornerButton=RightButton
+Tapping=false
+ThreeFingerTapButton=MiddleButton
+VertScrollDelta=2.1

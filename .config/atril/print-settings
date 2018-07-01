@@ -1,0 +1,33 @@
+[Print Settings]
+cover-after=none
+print-at=now
+print-at-time=
+resolution-x=600
+resolution-y=600
+cups-Quality=normal
+resolution=600
+atril-print-setting-page-scale=1
+cups-halftone=default
+cups-NupPages=1up
+cups-MediaType=plain
+cups-NupOrient=port
+atril-print-setting-page-autorotate=true
+cups-job-priority=50
+atril-print-setting-page-size=false
+media-type=plain
+cups-job-sheets=none,none
+cups-Resolution=600x600dpi
+cover-before=none
+printer=Phaser-3010
+cups-number-up=1
+
+[Page Setup]
+PPDName=Letter
+DisplayName=US Letter
+Width=215.89999389648438
+Height=279.39999389648438
+MarginTop=6.3499999999999996
+MarginBottom=14.224
+MarginLeft=6.3499999999999996
+MarginRight=6.3499999999999996
+Orientation=portrait

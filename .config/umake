@@ -1,0 +1,9 @@
+frameworks:
+  ide:
+    idea:
+      path: /home/omar/.local/share/umake/ide/idea
+    pycharm:
+      path: /home/omar/pycharm
+    visual-studio-code:
+      path: /home/omar/visual-studio-code
+  rust: {}

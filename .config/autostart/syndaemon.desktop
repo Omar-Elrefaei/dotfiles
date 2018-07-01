@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=syndaemon -i 0.3 -t -K -R
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Touchpad interruption while typing 
+Name=Touchpad interruption while typing 
+Comment[en_US]=Touchpad keyboard delay 
+Comment=Touchpad keyboard delay 

@@ -1,0 +1,5 @@
+[General]
+IgnoreImages=false
+MaxClipItems=50
+SyncClipboards=true
+Version=5.10.5

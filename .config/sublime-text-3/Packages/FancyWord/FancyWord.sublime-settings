@@ -1,0 +1,13 @@
+{
+    "topn": 10,
+    "language": "eng",
+    "word2vec":{
+        "enabled": false,
+        "python_path": "python",
+        "pretrained_word2vec_model": "~/Downloads/deps.words.bin",
+        "port": 5000,
+    },
+    "wordnet":{
+        "enabled": true
+    }
+}

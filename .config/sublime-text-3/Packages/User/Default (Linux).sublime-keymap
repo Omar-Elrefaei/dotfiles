@@ -1,0 +1,15 @@
+[
+	{ "keys": ["ctrl+shift+alt+e"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["ctrl+shift+a"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+	{ "keys": ["ctrl+k"], "command": "title_case" },
+	{ "keys": ["alt+1"], "command": "focus_group", "args": { "group": 0 } },
+	{ "keys": ["alt+2"], "command": "focus_group", "args": { "group": 1 } },
+	{ "keys": ["alt+3"], "command": "focus_group", "args": { "group": 2 } },
+	{ "keys": ["alt+4"], "command": "focus_group", "args": { "group": 3 } },
+	{ "keys": ["alt+5"], "command": "focus_group", "args": { "group": 4 } },
+	{ "keys": ["alt+6"], "command": "focus_group", "args": { "group": 6 } },
+	{ "keys": ["alt+7"], "command": "focus_group", "args": { "group": 7 } },
+	{ "keys": ["alt+8"], "command": "focus_group", "args": { "group": 8 } },
+	{ "keys": ["alt+9"], "command": "focus_group", "args": { "group": 9 } },
+
+]

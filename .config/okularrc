@@ -1,0 +1,18 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVYAAALaAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Window-Maximized 768x1366=true
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/hiroshima_hersey_text.pdf
+File2[$e]=$HOME/random-repo/kakoune/README.asciidoc
+File3[$e]=$HOME/random-repo/kakoune/doc/design.asciidoc
+File4[$e]=$HOME/ph/ph.html
+Name1[$e]=hiroshima_hersey_text.pdf
+Name2[$e]=README.asciidoc
+Name3[$e]=design.asciidoc
+Name4[$e]=ph.html

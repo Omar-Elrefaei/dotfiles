@@ -1,0 +1,230 @@
+[Devices][/org/freedesktop/UDisks2/block_devices/loop0]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop10]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop11]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop12]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop13]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop14]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop15]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop16]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop17]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop18]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop19]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop2]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop20]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop21]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop22]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop23]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop24]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop25]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop26]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop27]
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop3]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop4]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop5]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop6]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop7]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop8]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop9]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/mmcblk1p1]
+EverMounted=true
+Icon=media-flash-sd-mmc
+LastNameSeen=PRINTER
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/mmcblk1p2]
+EverMounted=true
+Icon=media-flash-sd-mmc
+LastNameSeen=19.7 GiB Removable Media
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda10]
+Icon=drive-harddisk
+LastNameSeen=3.5 GiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda4]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Windows
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda5]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=MY DATA
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda6]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=New Volume
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda7]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Ubuntu
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda8]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Ubuntu
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda9]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=3.5 GiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb]
+Icon=drive-removable-media-usb
+LastNameSeen=Clip Sport
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb1]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=14.3 GiB Removable Media
+LastSeenMounted=true

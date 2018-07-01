@@ -1,0 +1,89 @@
+VirtualBox XPCOM Server 5.1.22 r115126 linux.amd64 (Apr 28 2017 16:15:09) release log
+00:00:00.000857 main     Log opened 2017-12-09T15:38:11.521091000Z
+00:00:00.000865 main     Build Type: release
+00:00:00.000876 main     OS Product: Linux
+00:00:00.000879 main     OS Release: 4.13.0-17-generic
+00:00:00.000882 main     OS Version: #20-Ubuntu SMP Mon Nov 6 10:04:08 UTC 2017
+00:00:00.000958 main     DMI Product Name: 80E3
+00:00:00.000980 main     DMI Product Version: Lenovo G50-45
+00:00:00.001157 main     Host RAM: 3404MB (3.3GB) total, 1843MB available
+00:00:00.001165 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001167 main     Process ID: 26593
+00:00:00.001168 main     Package type: LINUX_64BITS_UBUNTU_17_04
+00:00:00.006329 main     IPC socket path: /tmp/.vbox-omar-ipc/ipcd
+00:00:00.121195 nspr-2   VirtualBox: object creation starts
+00:00:00.121423 nspr-2   Home directory: '/home/omar/.config/VirtualBox'
+00:00:00.121944 nspr-2   Loading settings file "/home/omar/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.126703 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.133877 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for anbox0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.139952 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp1s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.147463 nspr-2   NAT: resolv.conf: nameserver 127.0.0.53
+00:00:00.147581 nspr-2   HostDnsMonitor: old information
+00:00:00.147597 nspr-2     no server entries
+00:00:00.147608 nspr-2     no domain set
+00:00:00.147619 nspr-2     no search string entries
+00:00:00.147629 nspr-2   HostDnsMonitor: new information
+00:00:00.147640 nspr-2     server 1: 127.0.0.53
+00:00:00.147653 nspr-2     domain: school.lan
+00:00:00.147664 nspr-2     search string 1: school.lan
+00:00:00.147685 nspr-2   HostDnsMonitorProxy::notify
+00:00:00.156106 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.156866 nspr-2   VD: VDInit finished
+00:00:00.173361 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Ubuntu 17.10/Ubuntu 17.10.vbox' for reading: -102(File not found.).
+00:00:00.173385 nspr-2   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.173938 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Elementry OS/Elementry OS.vbox' for reading: -102(File not found.).
+00:00:00.173948 nspr-2   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.174336 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Ubuntu 17.10 Clone 2/Ubuntu 17.10 Clone 2.vbox' for reading: -102(File not found.).
+00:00:00.174348 nspr-2   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.174755 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Solus-Budgie/Solus-Budgie.vbox' for reading: -102(File not found.).
+00:00:00.174766 nspr-2   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.175142 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Solus-Budgie Clone/Solus-Budgie Clone.vbox' for reading: -102(File not found.).
+00:00:00.175152 nspr-2   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.176122 nspr-2   Loading settings file "/home/omar/VirtualBox VMs/OS X/OS X.vbox" with version "1.15-linux"
+00:00:00.178260 nspr-2   VirtualBox: object created
+00:00:00.655889 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Ubuntu 17.10/Ubuntu 17.10.vbox' for reading: -102(File not found.).
+00:00:00.655905 nspr-3   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.656671 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Ubuntu 17.10/Ubuntu 17.10.vbox' for reading: -102(File not found.).
+00:00:00.656679 nspr-3   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.658184 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Ubuntu 17.10/Ubuntu 17.10.vbox' for reading: -102(File not found.).
+00:00:00.658193 nspr-3   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.671793 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Elementry OS/Elementry OS.vbox' for reading: -102(File not found.).
+00:00:00.671810 nspr-3   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.672509 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Elementry OS/Elementry OS.vbox' for reading: -102(File not found.).
+00:00:00.672517 nspr-3   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.674008 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Elementry OS/Elementry OS.vbox' for reading: -102(File not found.).
+00:00:00.674016 nspr-3   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.677239 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Ubuntu 17.10 Clone 2/Ubuntu 17.10 Clone 2.vbox' for reading: -102(File not found.).
+00:00:00.677253 nspr-3   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.677921 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Ubuntu 17.10 Clone 2/Ubuntu 17.10 Clone 2.vbox' for reading: -102(File not found.).
+00:00:00.677929 nspr-3   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.679377 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Ubuntu 17.10 Clone 2/Ubuntu 17.10 Clone 2.vbox' for reading: -102(File not found.).
+00:00:00.679386 nspr-3   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.683534 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Solus-Budgie/Solus-Budgie.vbox' for reading: -102(File not found.).
+00:00:00.683545 nspr-3   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.684126 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Solus-Budgie/Solus-Budgie.vbox' for reading: -102(File not found.).
+00:00:00.684135 nspr-3   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.685875 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Solus-Budgie/Solus-Budgie.vbox' for reading: -102(File not found.).
+00:00:00.685885 nspr-3   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.689322 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Solus-Budgie Clone/Solus-Budgie Clone.vbox' for reading: -102(File not found.).
+00:00:00.689335 nspr-3   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.690071 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Solus-Budgie Clone/Solus-Budgie Clone.vbox' for reading: -102(File not found.).
+00:00:00.690080 nspr-3   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.691810 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Runtime error opening '/home/omar/VirtualBox VMs/Solus-Budgie Clone/Solus-Budgie Clone.vbox' for reading: -102(File not found.).
+00:00:00.691820 nspr-3   /home/vbox/vbox-5.1.22/src/VBox/Main/src-server/MachineImpl.cpp[745] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.703689 nspr-3   ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:00:00.703763 nspr-3   ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:00:00.703796 nspr-3   ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:00:00.703826 nspr-3   ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:00:00.703856 nspr-3   ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:00:01.223774 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:07.893736 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:08.298693 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={The virtual machine 'OS X' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:00:08.350843 nspr-3   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:52.582979 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={The virtual machine 'OS X' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:00:54.712006 nspr-3   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:01:06.120851 main     VirtualBox: object deletion starts
+00:01:06.121100 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={4afe423b-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={Medium '/media/omar/Windows1/Virtual-Box/OS X.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:01:06.596056 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd945} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:01:11.139688 main     {00007efbe801c0f0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:01:11.140178 main     VirtualBox: object deleted

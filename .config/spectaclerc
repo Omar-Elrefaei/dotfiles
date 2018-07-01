@@ -1,0 +1,24 @@
+[General]
+copySaveLocation=true
+default-save-image-format=png
+default-save-location[$e]=$HOME/Pictures/minergate
+last-saved-to[$e]=$HOME/Pictures/minergate
+lastSaveAsLocation=file:///home/omar/Pictures/red-alert/easy/
+save-filename-format=%D-%M-%y_%H:%m
+
+[GuiConfig]
+captureDelay=4
+captureModeIndex=4
+cropRegion=432,90,643,565
+dynamicSaveButton=true
+includeDecorations=true
+includePointer=false
+lastUsedSaveMode=2
+onClickChecked=true
+rememberLastRectangularRegion=true
+useLightMaskColour=false
+window-position=170,95
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/minergate/3110%2525257_2311.png,file:$HOME/Pictures/minergate/02-11-17_04:48.png,file:$HOME/Pictures/minergate/31-10-17_23:16.png,file:$HOME/Pictures/minergate/17_23:15.png,file:$HOME/Pictures/minergate/17_23:13.png,file:$HOME/Pictures/minergate/17_23:12.png
+Recent URLs[$e]=file:$HOME/Pictures/minergate/

@@ -1,0 +1,2 @@
+syndaemon -i 0.4 -t -K -R &
+setsid mate-terminal &

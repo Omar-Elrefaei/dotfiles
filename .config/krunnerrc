@@ -1,0 +1,36 @@
+[PlasmaRunnerManager]
+LaunchCounts=1 shell_kwin_x11 --replace
+
+[Plugins]
+DictionaryEnabled=false
+Kill RunnerEnabled=false
+PowerDevilEnabled=false
+Spell CheckerEnabled=false
+appstreamrunnerEnabled=false
+baloosearchEnabled=false
+bookmarksEnabled=false
+calculatorEnabled=false
+desktopsessionsEnabled=false
+katesessionsEnabled=false
+ktp_contactsEnabled=false
+kwinEnabled=false
+locationsEnabled=false
+org.kde.activitiesEnabled=true
+org.kde.datetimeEnabled=false
+org.kde.windowedwidgetsEnabled=false
+placesEnabled=false
+plasma-desktopEnabled=false
+recentdocumentsEnabled=false
+servicesEnabled=true
+shellEnabled=false
+unitconverterEnabled=false
+webshortcutsEnabled=false
+windowsEnabled=false
+
+[Runners][Dictionary]
+triggerWord=def
+
+[Runners][Kill Runner]
+sorting=1
+triggerWord=kill
+useTriggerWord=true

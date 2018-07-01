@@ -1,0 +1,5 @@
+[dailymotion]
+_module = dailymotion
+resolution = 480
+format = mp4
+

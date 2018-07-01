@@ -1,0 +1,4 @@
+[
+    { "caption": "AutoBackups: Open File Backup", "command": "auto_backups_open_backup" },
+    { "caption": "AutoBackups: Open Backups Folder", "command": "auto_backups_open_backups_folder" }
+]

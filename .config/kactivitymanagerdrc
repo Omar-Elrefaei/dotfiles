@@ -1,0 +1,13 @@
+[Plugins]
+org.kde.ActivityManager.ResourceScoringEnabled=true
+org.kde.ActivityManager.VirtualDesktopSwitchEnabled=false
+
+[activities]
+29463002-947c-4873-b09f-bfc8e53ae221=work
+98ff4bf3-8942-4179-883f-96c0261bafb7=Default
+
+[activities-icons]
+29463002-947c-4873-b09f-bfc8e53ae221=alienarena
+
+[main]
+currentActivity=98ff4bf3-8942-4179-883f-96c0261bafb7

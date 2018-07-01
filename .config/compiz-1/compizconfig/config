@@ -1,0 +1,24 @@
+[general_mate]
+profile = 
+plugin_list_autosort = true
+integration = false
+backend = ini
+
+[general]
+profile = 
+integration = true
+
+[general_ubuntu]
+profile = unity
+
+[gnome_session]
+profile = 
+backend = gsettings
+integration = false
+
+[kde_session]
+backend = ini
+profile = 
+integration = true
+plugin_list_autosort = true
+

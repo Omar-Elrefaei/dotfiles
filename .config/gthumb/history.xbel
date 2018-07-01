@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/omar/Pictures/Tux4Ubuntu%20Wallpapers" added="2018-01-29T23:30:06Z" modified="2018-01-29T23:30:06Z" visited="2018-01-29T23:30:06.919729Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2018-01-29T23:30:06Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/icons/Humanity/apps/48" added="2018-01-29T23:30:06Z" modified="2018-01-29T23:30:06Z" visited="2018-01-29T23:30:06.919757Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2018-01-29T23:30:06Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/omar/Documents" added="2018-01-29T23:30:06Z" modified="2018-01-29T23:30:06Z" visited="2018-01-29T23:30:06.919778Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2018-01-29T23:30:06Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="catalog:///Command%20Line.catalog" added="2018-01-29T23:30:06Z" modified="2018-01-29T23:30:06Z" visited="2018-01-29T23:30:06.919797Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2018-01-29T23:30:06Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="catalog:///" added="2018-01-29T23:30:06Z" modified="2018-01-29T23:30:06Z" visited="2018-01-29T23:30:06.919818Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2018-01-29T23:30:06Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/omar/Downloads" added="2018-01-29T23:30:06Z" modified="2018-01-29T23:30:06Z" visited="2018-01-29T23:30:06.919837Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2018-01-29T23:30:06Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/omar/Desktop" added="2018-01-29T23:30:06Z" modified="2018-01-29T23:30:06Z" visited="2018-01-29T23:30:06.919860Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2018-01-29T23:30:06Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/omar/python-getting-started/hello/omar" added="2018-01-29T23:30:06Z" modified="2018-01-29T23:30:06Z" visited="2018-01-29T23:30:06.919879Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2018-01-29T23:30:06Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/omar/Pictures" added="2018-01-29T23:30:06Z" modified="2018-01-29T23:30:06Z" visited="2018-01-29T23:30:06.919898Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2018-01-29T23:30:06Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/omar/machine-learning/tf-files/flower_photos/roses" added="2018-01-29T23:30:06Z" modified="2018-01-29T23:30:06Z" visited="2018-01-29T23:30:06.919916Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2018-01-29T23:30:06Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/omar/Volume/Family%20Media/Omar/FLL%20%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9" added="2018-01-29T23:30:06Z" modified="2018-01-29T23:30:06Z" visited="2018-01-29T23:30:06.919936Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2018-01-29T23:30:06Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

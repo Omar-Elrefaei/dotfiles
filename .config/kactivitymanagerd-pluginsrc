@@ -1,0 +1,7 @@
+[Plugin-org.kde.ActivityManager.Resources.Scoring]
+allowed-applications=kate,nautilus-2,org.gnome.gedit,org.kde.dolphin,org.kde.gwenview,org.kde.krunner,org.kde.libtaskmanager,org.kde.plasma.kicker,sublime,thunar,thunar-folder-handler
+blocked-applications=
+blocked-by-default=false
+keep-history-for=1
+off-the-record-activities=
+what-to-remember=0
