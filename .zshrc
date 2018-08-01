@@ -139,6 +139,7 @@ alias pray='ipraytime --latitude 51.1801 --longitude 71.44598 -u +6 -a 3'
 
 alias config='/usr/bin/git --git-dir=$HOME/.myconf/ --work-tree=$HOME'
 alias config-add-my-small-files='find . -maxdepth 1 -type f -size -1000c -print0 | xargs -0 /usr/bin/git --git-dir=$HOME/.myconf/ --work-tree=$HOME add; config status'
+alias config-add-modified='config ls-files --modified | xargs /usr/bin/git --git-dir=$HOME/.myconf/ --work-tree=$HOME add'
 #alias kak='kak -c omar'
 alias tlp-mod='sudo tlp-stat -b -s | grep "Mode"'
 alias ram='free -m'
